@@ -1,0 +1,98 @@
+manufacturing-supply-chain
+
+Each: PageHero, H1, 3 paragraphs, 
+2 FAQs (FAQPage JSON-LD), 
+related case types, bottom CTA.
+
+financial-services:
+H1: Financial Services Dispute 
+    Accounting Expert UK
+Key issues: mis-selling; 
+ISDA disputes; investment 
+management mandate breach; 
+regulatory investigations; 
+FCA enforcement accounting.
+FAQs:
+Q: What dispute accounting 
+issues arise in financial services?
+A: Financial services disputes 
+requiring accounting expert 
+evidence include: investment 
+management mandate breaches 
+(comparing actual portfolio 
+performance to the mandated 
+benchmark); ISDA close-out 
+amount disputes (assessing 
+commercial reasonableness); 
+and regulatory enforcement 
+proceedings where accounting 
+evidence on financial position 
+or benefit from misconduct 
+is required.
+Q: What is a "close-out amount" 
+dispute in derivatives?
+A: When an ISDA master agreement 
+is terminated early (e.g. 
+following a default), the 
+non-defaulting party calculates 
+a "close-out amount" representing 
+the value of terminated 
+transactions. Disputes arise 
+when the defaulting party 
+challenges this calculation. 
+Dispute accountants assess 
+whether the methodology 
+was commercially reasonable 
+and consistent with 
+the ISDA definitions.
+
+construction-engineering:
+H1: Construction & Engineering 
+    Dispute Accounting Expert UK
+Key issues: loss and expense; 
+prolongation costs; 
+disruption; quantum schedules; 
+JCT/NEC/FIDIC; TCC.
+FAQs:
+Q: Do construction disputes 
+need an accountant or a 
+quantity surveyor?
+A: Construction disputes 
+often need both. A quantity 
+surveyor (QS) addresses 
+the entitlement under 
+the contract and the 
+valuation of physical works. 
+A dispute accountant 
+addresses the financial 
+accounting impact — 
+overhead recovery, 
+loss of profit, 
+the treatment of costs 
+in the company accounts, 
+and whether costs claimed 
+are properly supported 
+by financial records.
+Q: How does a dispute accountant 
+support TCC proceedings?
+A: In Technology and Construction 
+Court proceedings, dispute 
+accountants provide CPR Part 35 
+expert reports on financial 
+aspects of the claim — 
+loss of profit on the 
+contract, head office 
+overhead recovery (Emden 
+or Hudson formula), 
+interest calculations, 
+and any accounting issues 
+in the financial accounts.
+
+technology-software:
+H1: Technology & Software 
+    Dispute Accounting Expert UK
+Key issues: IT implementation 
+failure losses; SaaS contract 
+breach; licence breach royalties; 
+startup valuation disputes; 
+M&A 

@@ -1,0 +1,33 @@
+import Link from "next/link";
+import { SiteEmailLink } from "@/components/SiteEmailLink";
+
+interface CTASectionProps {
+  title?: string;
+  description?: string;
+  buttonLabel?: string;
+}
+
+export function CTASection({
+  title = "Ready to Instruct a Dispute Accountant?",
+  description = "Submit your case details and we will match you with a qualified UK dispute accounting expert. CPR Part 35 and FPR Part 25 compliant reports. Response within 1 business day.",
+  buttonLabel = "Instruct an Expert",
+}: CTASectionProps) {
+  return (
+    <section className="bg-accent py-12 sm:py-14 md:py-16">
+      <div className="mx-auto min-w-0 max-w-7xl px-4 text-center sm:px-6 lg:px-8">
+        <h2 className="text-xl font-bold text-white sm:text-2xl md:text-3xl">{title}</h2>
+        <p className="mx-auto mt-4 max-w-2xl text-white/90">{description}</p>
+        <Link
+          href="/contact"
+          className="mt-8 inline-flex min-h-[44px] items-center justify-center rounded bg-white px-8 py-3 font-semibold text-accent transition-colors hover:bg-white/90"
+        >
+          {buttonLabel}
+        </Link>
+        <p className="mt-6 text-sm text-white/90">
+          Or email{" "}
+          <SiteEmailLink className="font-semibold text-white underline decoration-white/50 underline-offset-2 hover:decoration-white" />
+        </p>
+      </div>
+    </section>
+  );
+}
