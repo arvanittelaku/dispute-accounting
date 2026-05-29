@@ -2,7 +2,7 @@ import { appendRow, type CellValue } from "@/lib/google-sheets";
 
 export const BRAND_NAME = "DisputeAccounting";
 
-/** Row 1 headers on GOOGLE_SHEET_TAB_NAME — must match buildLeadSheetRow column order */
+/** Row 1 headers on GOOGLE_SHEET_TAB_NAME, must match buildLeadSheetRow column order */
 export const LEAD_SHEET_HEADERS = [
   "Timestamp",
   "Full Name",
@@ -97,7 +97,7 @@ export function buildLeadSheetRow(lead: LeadSubmission): CellValue[] {
   ];
 }
 
-/** n8n webhook — four keys only */
+/** n8n webhook, four keys only */
 export function buildWebhookPayload(lead: LeadSubmission) {
   return {
     "Full Name": lead.fullName,

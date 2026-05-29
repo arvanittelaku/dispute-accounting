@@ -30,7 +30,7 @@ function loadEnvLocal() {
       if (!process.env[key]) process.env[key] = val;
     }
   } catch {
-    console.warn("No .env.local found — set GOOGLE_* env vars manually.");
+    console.warn("No .env.local found, set GOOGLE_* env vars manually.");
   }
 }
 

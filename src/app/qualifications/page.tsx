@@ -35,23 +35,23 @@ export default function QualificationsPage() {
           <h2>Core Credentials</h2>
           <h3>ACA / FCA (ICAEW)</h3>
           <p>
-            Primary UK chartered accountancy qualification — essential baseline
+            Primary UK chartered accountancy qualification, essential baseline
             for dispute accountants providing expert witness evidence on
             accounting matters.
           </p>
           <h3>ACCA / FCCA</h3>
           <p>
-            Association of Chartered Certified Accountants — widely recognised
+            Association of Chartered Certified Accountants, widely recognised
             in UK litigation and international arbitration.
           </p>
           <h3>CFE (Certified Fraud Examiner)</h3>
           <p>
-            Issued by ACFE — the primary credential for fraud investigation and
+            Issued by ACFE, the primary credential for fraud investigation and
             forensic accounting in civil and criminal proceedings.
           </p>
           <h3>CIMA / FCMA</h3>
           <p>
-            Chartered Institute of Management Accountants — relevant for
+            Chartered Institute of Management Accountants, relevant for
             management accounting disputes and financial modelling in loss
             quantification.
           </p>

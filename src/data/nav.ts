@@ -8,7 +8,7 @@ export const navServiceLinks = services.map((s) => ({
 }));
 
 export const navDisputeTypeLinks = [
-  { href: "/dispute-types", label: "All Dispute Types — Overview" },
+  { href: "/dispute-types", label: "All Dispute Types, Overview" },
   {
     href: "/dispute-types#commercial-contract-disputes",
     label: "Commercial Contract Disputes",
@@ -58,14 +58,14 @@ export const navSectorLinks = sectors.map((s) => ({
   label: s.title,
 }));
 
-/** Desktop Resources dropdown — Guides, How to Instruct, Qualifications only */
+/** Desktop Resources dropdown, Guides, How to Instruct, Qualifications only */
 export const navResourcesMenuLinks = [
   { href: "/guides", label: "Guides" },
   { href: "/how-to-instruct", label: "How to Instruct" },
   { href: "/qualifications", label: "Qualifications" },
 ];
 
-/** Footer & secondary links — includes glossary, FAQ, fees */
+/** Footer & secondary links, includes glossary, FAQ, fees */
 export const navResourceLinks = [
   { href: "/guides", label: "Guides" },
   { href: "/glossary", label: "Glossary" },

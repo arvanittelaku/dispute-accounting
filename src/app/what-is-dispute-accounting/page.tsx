@@ -48,10 +48,10 @@ export default function WhatIsDisputeAccountingPage() {
           <h2>How It Differs from Regular Accounting</h2>
           <p>
             Regular accounting focuses on financial reporting, compliance, tax,
-            and business advisory — the ongoing financial management of an
+            and business advisory, the ongoing financial management of an
             organisation. Dispute accounting applies forensic investigative
             skills and accounting expertise specifically to resolve
-            disagreements — analysing historical financial records with the
+            disagreements, analysing historical financial records with the
             rigour of a forensic investigation, producing court-admissible
             reports, and presenting findings under cross-examination.
           </p>
@@ -95,7 +95,7 @@ export default function WhatIsDisputeAccountingPage() {
               Shareholder conflict requiring independent financial analysis
             </li>
             <li>
-              M&A deal dispute — completion accounts or warranty claims
+              M&A deal dispute, completion accounts or warranty claims
             </li>
             <li>Partnership dissolution with disputed financials</li>
             <li>Insurance claim requiring independent loss assessment</li>

@@ -9,7 +9,7 @@ import { experts } from "@/data/experts";
 export const metadata = createMetadata({
   title: "Our Dispute Accountants | UK Forensic Accounting Experts",
   description:
-    "DisputeAccounting.com connects UK solicitors and businesses with qualified dispute accountants — ACA, CFE, and CIMA credentialed forensic accounting specialists.",
+    "DisputeAccounting.com connects UK solicitors and businesses with qualified dispute accountants, ACA, CFE, and CIMA credentialed forensic accounting specialists.",
   path: "/experts",
 });
 
@@ -27,7 +27,7 @@ export default function ExpertsPage() {
       />
       <PageHero
         title="Our Dispute Accountants"
-        subtitle="DisputeAccounting.com connects UK solicitors and businesses with qualified dispute accountants — forensic accounting specialists with ACA, CFE, and CIMA credentials and extensive CPR Part 35 experience."
+        subtitle="DisputeAccounting.com connects UK solicitors and businesses with qualified dispute accountants, forensic accounting specialists with ACA, CFE, and CIMA credentials and extensive CPR Part 35 experience."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Experts" },

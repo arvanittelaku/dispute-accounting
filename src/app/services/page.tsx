@@ -47,7 +47,7 @@ export default function ServicesPage() {
       />
       <PageHero
         title="Dispute Accounting Services UK"
-        subtitle="From loss quantification and fraud investigation to business valuation, shareholder disputes, and CPR Part 35 expert witness reports — our UK dispute accountants support solicitors and businesses across every type of financial dispute."
+        subtitle="From loss quantification and fraud investigation to business valuation, shareholder disputes, and CPR Part 35 expert witness reports, our UK dispute accountants support solicitors and businesses across every type of financial dispute."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services" },

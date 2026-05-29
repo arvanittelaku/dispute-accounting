@@ -1,7 +1,7 @@
-/** Dispute Accounting — consent storage (GDPR / ePrivacy) */
+/** Dispute Accounting, consent storage (GDPR / ePrivacy) */
 export const CONSENT_STORAGE_KEY = "da-cookie-consent";
 
-/** 12 months — common GDPR retention for consent records */
+/** 12 months, common GDPR retention for consent records */
 export const CONSENT_MAX_AGE_MS = 365 * 24 * 60 * 60 * 1000;
 
 /** Bump when cookie policy or categories change materially */

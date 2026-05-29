@@ -5,7 +5,7 @@ import { SiteEmailLink } from "@/components/SiteEmailLink";
 
 export const metadata = createMetadata({
   title: "Privacy Policy | DisputeAccounting.com",
-  description: "Privacy policy for DisputeAccounting.com — UK GDPR compliant.",
+  description: "Privacy policy for DisputeAccounting.com, UK GDPR compliant.",
   path: "/privacy",
   noindex: true,
   nofollow: false,

@@ -10,7 +10,7 @@ import { guides } from "@/data/guides";
 export const metadata = createMetadata({
   title: "Guides: Dispute Accounting UK | Forensic Accounting & Disputes",
   description:
-    "In-depth guides on dispute accounting for UK solicitors and businesses — fraud investigation, loss quantification, shareholder disputes, M&A, and more.",
+    "In-depth guides on dispute accounting for UK solicitors and businesses, fraud investigation, loss quantification, shareholder disputes, M&A, and more.",
   path: "/guides",
 });
 

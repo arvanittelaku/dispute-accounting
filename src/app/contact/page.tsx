@@ -39,7 +39,7 @@ export default function ContactPage() {
         <div className="mb-10 grid gap-6 md:grid-cols-2">
           <div className="rounded-[8px] border border-border bg-section-alt p-6">
             <h2 className="text-lg font-bold text-heading">
-              Path 1 — Solicitors
+              Path 1: Solicitors
             </h2>
             <p className="mt-2 text-body">
               Need an expert witness or litigation support? Submit your
@@ -55,7 +55,7 @@ export default function ContactPage() {
           </div>
           <div className="rounded-[8px] border border-border bg-section-alt p-6">
             <h2 className="text-lg font-bold text-heading">
-              Path 2 — Businesses
+              Path 2: Businesses
             </h2>
             <p className="mt-2 text-body">
               Facing a financial dispute without a solicitor yet? A dispute

@@ -22,7 +22,7 @@ export const services: Service[] = [
     description:
       "Independent quantification of financial loss across commercial, shareholder, and professional negligence disputes using but-for modelling, reliance loss, and SAAMCo-compliant methodologies.",
     content:
-      "Loss quantification — often referred to as quantum in UK litigation — is the forensic accounting process of translating a legal cause of action into a defensible monetary figure. Our dispute accountants apply the compensatory principle from Robinson v Harman [1848], constructing but-for models for expectation loss, reliance schedules for wasted expenditure under Anglia Television Ltd v Reed [1972], and account of profits where equitable remedies apply. Each engagement addresses causation, remoteness under Hadley v Baxendale [1854], mitigation, and the scope of duty under South Australia Asset Management Corp v York Montague Ltd [1997] (SAAMCo) where professional negligence is alleged. Reports are structured for CPR Part 35 compliance, with transparent assumptions, sensitivity analysis on material variables, and clear separation of heads of loss. Whether the dispute concerns breach of contract, tortious interference, or director misconduct, we provide court-ready quantum that withstands scrutiny from joint expert meetings through to cross-examination at trial.",
+      "Loss quantification, often referred to as quantum in UK litigation, is the forensic accounting process of translating a legal cause of action into a defensible monetary figure. Our dispute accountants apply the compensatory principle from Robinson v Harman [1848], constructing but-for models for expectation loss, reliance schedules for wasted expenditure under Anglia Television Ltd v Reed [1972], and account of profits where equitable remedies apply. Each engagement addresses causation, remoteness under Hadley v Baxendale [1854], mitigation, and the scope of duty under South Australia Asset Management Corp v York Montague Ltd [1997] (SAAMCo) where professional negligence is alleged. Reports are structured for CPR Part 35 compliance, with transparent assumptions, sensitivity analysis on material variables, and clear separation of heads of loss. Whether the dispute concerns breach of contract, tortious interference, or director misconduct, we provide court-ready quantum that withstands scrutiny from joint expert meetings through to cross-examination at trial.",
     methodology: [
       {
         phase: "Instruction & Scoping",
@@ -59,7 +59,7 @@ export const services: Service[] = [
       {
         question: "What is the difference between loss quantification and quantum?",
         answer:
-          "In UK practice the terms are often used interchangeably: both refer to calculating the monetary value of a claim. 'Quantum' is the legal term for the amount of damages; loss quantification is the expert accounting process that produces the figure the court awards. Our reports bridge both — applying legal tests to financial evidence.",
+          "In UK practice the terms are often used interchangeably: both refer to calculating the monetary value of a claim. 'Quantum' is the legal term for the amount of damages; loss quantification is the expert accounting process that produces the figure the court awards. Our reports bridge both, applying legal tests to financial evidence.",
       },
       {
         question: "Which methodology is used for loss quantification in UK disputes?",
@@ -74,7 +74,7 @@ export const services: Service[] = [
     description:
       "Forensic investigation of suspected fraud, asset misappropriation, and financial irregularities for civil claims, regulatory proceedings, and POCA-related recovery.",
     content:
-      "Fraud investigation in UK dispute accounting goes beyond routine audit: it applies forensic techniques to identify deliberate misrepresentation, concealed transactions, and patterns indicative of dishonesty. Our investigators analyse bank statements, general ledgers, journal entries, and related-party transactions to reconstruct the true financial position and quantify misappropriated funds. Engagements frequently support claims for deceit, conspiracy to defraud, breach of fiduciary duty, and unjust enrichment, as well as applications under the Proceeds of Crime Act 2002 (POCA) where criminal or civil recovery is pursued. We apply Benford's Law analysis, journal entry testing, and lifestyle benchmarking where appropriate, and document the chain of evidence to civil standards of proof — balance of probabilities in most civil fraud claims, with clear articulation of alternative explanations. Reports are suitable for without-prejudice settlement discussions, interim injunctions, and full trial, and our experts are experienced in giving oral evidence on tracing paths and quantification of loss caused by fraudulent conduct.",
+      "Fraud investigation in UK dispute accounting goes beyond routine audit: it applies forensic techniques to identify deliberate misrepresentation, concealed transactions, and patterns indicative of dishonesty. Our investigators analyse bank statements, general ledgers, journal entries, and related-party transactions to reconstruct the true financial position and quantify misappropriated funds. Engagements frequently support claims for deceit, conspiracy to defraud, breach of fiduciary duty, and unjust enrichment, as well as applications under the Proceeds of Crime Act 2002 (POCA) where criminal or civil recovery is pursued. We apply Benford's Law analysis, journal entry testing, and lifestyle benchmarking where appropriate, and document the chain of evidence to civil standards of proof, balance of probabilities in most civil fraud claims, with clear articulation of alternative explanations. Reports are suitable for without-prejudice settlement discussions, interim injunctions, and full trial, and our experts are experienced in giving oral evidence on tracing paths and quantification of loss caused by fraudulent conduct.",
     methodology: [
       {
         phase: "Risk Assessment",
@@ -143,7 +143,7 @@ export const services: Service[] = [
       {
         phase: "Asset Identification",
         whatWeDo:
-          "Identify substituted assets — property, shares, vehicles, and investments — and related-party recipients.",
+          "Identify substituted assets, property, shares, vehicles, and investments, and related-party recipients.",
         deliverable: "Asset register",
       },
       {
@@ -178,7 +178,7 @@ export const services: Service[] = [
     description:
       "Independent valuations of businesses and shareholdings for shareholder disputes, M&A completion accounts, matrimonial proceedings, and expert determination.",
     content:
-      "Business and share valuation sits at the heart of many UK disputes where the court or parties must determine fair value rather than a negotiated price. Our dispute accountants apply recognised valuation approaches — income (DCF), market (comparable transactions and multiples), and asset-based — selecting the method appropriate to the company, its stage, and the purpose of the valuation under the Share Valuation Regulations 2008, the Companies Act 2006 unfair prejudice framework, or contractual valuation clauses. Minority discounts and control premiums are applied only where legally permissible: the House of Lords in O'Neill v Phillips [1999] and subsequent unfair prejudice case law requires careful analysis of whether a minority shareholder is entitled to pro rata fair value without discount. We also value businesses for matrimonial proceedings under section 25 of the Matrimonial Causes Act 1973, completion account disputes, earn-out disagreements, and partnership dissolution. Every valuation report sets out assumptions, normalisation adjustments to maintain earnings, and sensitivity analysis, and complies with CPR Part 35 or FPR Part 25 as applicable. Where disputes are referred to expert determination, we act as determiner or advising expert per the appointment terms.",
+      "Business and share valuation sits at the heart of many UK disputes where the court or parties must determine fair value rather than a negotiated price. Our dispute accountants apply recognised valuation approaches, income (DCF), market (comparable transactions and multiples), and asset-based, selecting the method appropriate to the company, its stage, and the purpose of the valuation under the Share Valuation Regulations 2008, the Companies Act 2006 unfair prejudice framework, or contractual valuation clauses. Minority discounts and control premiums are applied only where legally permissible: the House of Lords in O'Neill v Phillips [1999] and subsequent unfair prejudice case law requires careful analysis of whether a minority shareholder is entitled to pro rata fair value without discount. We also value businesses for matrimonial proceedings under section 25 of the Matrimonial Causes Act 1973, completion account disputes, earn-out disagreements, and partnership dissolution. Every valuation report sets out assumptions, normalisation adjustments to maintain earnings, and sensitivity analysis, and complies with CPR Part 35 or FPR Part 25 as applicable. Where disputes are referred to expert determination, we act as determiner or advising expert per the appointment terms.",
     methodology: [
       {
         phase: "Purpose & Standard",
@@ -215,12 +215,12 @@ export const services: Service[] = [
       {
         question: "Is a minority discount applied in unfair prejudice claims?",
         answer:
-          "Not automatically. Under section 994 of the Companies Act 2006 and case law including Re Bird Precision Bellows Ltd [1984], the court may order fair value without a minority discount where a buy-out is ordered. The applicable discount depends on the facts, the company's articles, and any shareholders' agreement — we address this explicitly in every valuation.",
+          "Not automatically. Under section 994 of the Companies Act 2006 and case law including Re Bird Precision Bellows Ltd [1984], the court may order fair value without a minority discount where a buy-out is ordered. The applicable discount depends on the facts, the company's articles, and any shareholders' agreement, we address this explicitly in every valuation.",
       },
       {
         question: "How are completion account disputes valued?",
         answer:
-          "Completion accounts disputes turn on the sale and purchase agreement definitions of working capital, net debt, and normalised earnings at completion. We reconstruct the closing balance sheet per the contract, identify disputed adjustments, and quantify the price adjustment — often referred to as the 'true-up' — payable under the locked box or completion accounts mechanism.",
+          "Completion accounts disputes turn on the sale and purchase agreement definitions of working capital, net debt, and normalised earnings at completion. We reconstruct the closing balance sheet per the contract, identify disputed adjustments, and quantify the price adjustment, often referred to as the 'true-up', payable under the locked box or completion accounts mechanism.",
       },
     ],
   },
@@ -247,7 +247,7 @@ export const services: Service[] = [
       {
         phase: "Prejudice Quantification",
         whatWeDo:
-          "Quantify financial detriment — suppressed dividends, excessive remuneration, or diverted opportunities.",
+          "Quantify financial detriment, suppressed dividends, excessive remuneration, or diverted opportunities.",
         deliverable: "Prejudice quantum",
       },
       {
@@ -282,7 +282,7 @@ export const services: Service[] = [
     description:
       "Expert accounting on completion accounts, locked box mechanisms, earn-out disputes, warranty claims, and purchase price adjustment disagreements.",
     content:
-      "M&A transaction disputes arise when buyers and sellers disagree on the final price adjustment, earn-out payment, or warranty claim quantum following a share or asset purchase. Our dispute accountants are experienced in the accounting mechanics of SPA-defined completion accounts, locked box balance sheets, and earn-out formulae tied to EBITDA, revenue, or customer retention metrics. We reconstruct closing balance sheets per the sale and purchase agreement definitions — normalising working capital, identifying items requiring specific treatment under the contract, and calculating the true-up payable to buyer or seller. Earn-out disputes frequently involve disagreements over whether management ran the business consistent with pre-completion conduct, whether permitted adjustments apply, and whether targets were achieved on the contractually defined basis. Warranty and indemnity claims require quantification of loss flowing from breach of warranty, subject to disclosure, de minimis, and cap provisions. We act in High Court proceedings, expert determination under ICC or LCIA rules, and without prejudice negotiations. Reports address the contractual hierarchy — specific definitions override general accounting standards unless the SPA provides otherwise — and are prepared for CPR Part 35 or as determinations per appointment terms.",
+      "M&A transaction disputes arise when buyers and sellers disagree on the final price adjustment, earn-out payment, or warranty claim quantum following a share or asset purchase. Our dispute accountants are experienced in the accounting mechanics of SPA-defined completion accounts, locked box balance sheets, and earn-out formulae tied to EBITDA, revenue, or customer retention metrics. We reconstruct closing balance sheets per the sale and purchase agreement definitions, normalising working capital, identifying items requiring specific treatment under the contract, and calculating the true-up payable to buyer or seller. Earn-out disputes frequently involve disagreements over whether management ran the business consistent with pre-completion conduct, whether permitted adjustments apply, and whether targets were achieved on the contractually defined basis. Warranty and indemnity claims require quantification of loss flowing from breach of warranty, subject to disclosure, de minimis, and cap provisions. We act in High Court proceedings, expert determination under ICC or LCIA rules, and without prejudice negotiations. Reports address the contractual hierarchy, specific definitions override general accounting standards unless the SPA provides otherwise, and are prepared for CPR Part 35 or as determinations per appointment terms.",
     methodology: [
       {
         phase: "SPA Analysis",
@@ -299,7 +299,7 @@ export const services: Service[] = [
       {
         phase: "Adjustment Disputes",
         whatWeDo:
-          "Analyse each disputed line item — working capital, debt, capex, normalisation — and quantify the price impact.",
+          "Analyse each disputed line item, working capital, debt, capex, normalisation, and quantify the price impact.",
         deliverable: "Adjustment schedule",
       },
       {
@@ -334,7 +334,7 @@ export const services: Service[] = [
     description:
       "Forensic accounting for Form E disclosure, hidden income analysis, business valuations, and expert reports under FPR Part 25 in financial remedy proceedings.",
     content:
-      "Matrimonial financial dispute accounting supports family practitioners in financial remedy proceedings under the Matrimonial Causes Act 1973 and Family Procedure Rules 2010. Our experts analyse Form E disclosure, identify discrepancies between declared and actual income, and value business interests, partnerships, and trusts that form part of the matrimonial pot. Hidden income analysis applies forensic techniques — bank statement review, lifestyle expenditure benchmarking, and analysis of undeclared cash businesses — to establish the true resources available for division. Business valuations for family proceedings apply a fair value standard, often without minority discounts where the court treats the holding as part of the matrimonial assets. We prepare reports compliant with FPR Part 25 and the Ikarian Reefer duties of expert independence, and give oral evidence at Financial Dispute Resolution hearings and final hearings. Engagements also cover trust structures, offshore holdings, and pre-nuptial agreement disclosure challenges. Our work assists the court in applying the section 25 factors — particularly the income, earning capacity, property, and financial resources of each party — on an evidenced basis rather than incomplete disclosure.",
+      "Matrimonial financial dispute accounting supports family practitioners in financial remedy proceedings under the Matrimonial Causes Act 1973 and Family Procedure Rules 2010. Our experts analyse Form E disclosure, identify discrepancies between declared and actual income, and value business interests, partnerships, and trusts that form part of the matrimonial pot. Hidden income analysis applies forensic techniques, bank statement review, lifestyle expenditure benchmarking, and analysis of undeclared cash businesses, to establish the true resources available for division. Business valuations for family proceedings apply a fair value standard, often without minority discounts where the court treats the holding as part of the matrimonial assets. We prepare reports compliant with FPR Part 25 and the Ikarian Reefer duties of expert independence, and give oral evidence at Financial Dispute Resolution hearings and final hearings. Engagements also cover trust structures, offshore holdings, and pre-nuptial agreement disclosure challenges. Our work assists the court in applying the section 25 factors, particularly the income, earning capacity, property, and financial resources of each party, on an evidenced basis rather than incomplete disclosure.",
     methodology: [
       {
         phase: "Disclosure Review",
@@ -371,7 +371,7 @@ export const services: Service[] = [
       {
         question: "How does FPR Part 25 differ from CPR Part 35 for experts?",
         answer:
-          "FPR Part 25 governs expert evidence in family proceedings and imposes the same fundamental duty — the expert's overriding obligation is to the court. Practice Direction 25B sets additional requirements for family reports. Our matrimonial experts are experienced in both frameworks and the specific disclosure obligations in financial remedy cases.",
+          "FPR Part 25 governs expert evidence in family proceedings and imposes the same fundamental duty, the expert's overriding obligation is to the court. Practice Direction 25B sets additional requirements for family reports. Our matrimonial experts are experienced in both frameworks and the specific disclosure obligations in financial remedy cases.",
       },
       {
         question: "Can you prove hidden income in divorce proceedings?",
@@ -386,7 +386,7 @@ export const services: Service[] = [
     description:
       "CPR Part 35 and FPR Part 25 compliant expert reports, joint statements, conference attendance, and oral evidence for UK courts, tribunals, and arbitration.",
     content:
-      "Expert witness reports are the primary vehicle through which dispute accounting evidence reaches the English court. Under CPR Part 35 and the associated Practice Direction, experts must provide independent opinions within their area of expertise, comply with the report format requirements, and confirm their understanding of the overriding duty to the court. Our experts prepare reports addressing specific questions of quantum, valuation, and forensic accounting set out in the letter of instruction, with clear separation of instructions, assumptions, and opinions. We attend experts' meetings with opposing experts to produce joint statements identifying agreed facts, agreed methodology, and remaining areas of disagreement — often narrowing trial issues significantly. Where appointed as Single Joint Expert, we maintain independence from both parties while responding to joint instructions. Party-appointed experts attend pre-trial conferences with counsel and give oral evidence under cross-examination. We also accept appointments in arbitration (LCIA, ICC, UNCITRAL) and expert determination, adapting report format to the applicable rules. Shadow expert engagements — where we advise counsel without producing a report — are available for case strategy and critique of opposing expert evidence, subject to proper disclosure rules.",
+      "Expert witness reports are the primary vehicle through which dispute accounting evidence reaches the English court. Under CPR Part 35 and the associated Practice Direction, experts must provide independent opinions within their area of expertise, comply with the report format requirements, and confirm their understanding of the overriding duty to the court. Our experts prepare reports addressing specific questions of quantum, valuation, and forensic accounting set out in the letter of instruction, with clear separation of instructions, assumptions, and opinions. We attend experts' meetings with opposing experts to produce joint statements identifying agreed facts, agreed methodology, and remaining areas of disagreement, often narrowing trial issues significantly. Where appointed as Single Joint Expert, we maintain independence from both parties while responding to joint instructions. Party-appointed experts attend pre-trial conferences with counsel and give oral evidence under cross-examination. We also accept appointments in arbitration (LCIA, ICC, UNCITRAL) and expert determination, adapting report format to the applicable rules. Shadow expert engagements, where we advise counsel without producing a report, are available for case strategy and critique of opposing expert evidence, subject to proper disclosure rules.",
     methodology: [
       {
         phase: "Instruction",

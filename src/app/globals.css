@@ -120,7 +120,7 @@ svg {
   }
 }
 
-/* Cookie consent — fixed overlay only (no CLS) */
+/* Cookie consent, fixed overlay only (no CLS) */
 @keyframes slideUp {
   from {
     opacity: 0;

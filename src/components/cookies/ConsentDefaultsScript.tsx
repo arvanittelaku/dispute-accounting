@@ -1,7 +1,7 @@
 import Script from "next/script";
 
 /**
- * Google Consent Mode v2 defaults — must run before any Google tag loads.
+ * Google Consent Mode v2 defaults, must run before any Google tag loads.
  * Loaded with beforeInteractive to avoid race conditions and hydration issues.
  */
 export function ConsentDefaultsScript() {

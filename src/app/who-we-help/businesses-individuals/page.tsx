@@ -48,10 +48,10 @@ export default function BusinessesPage() {
           <h2>You Don&apos;t Always Need a Solicitor First</h2>
           <p>
             Many businesses and individuals discover a financial dispute before
-            engaging a solicitor — a suspected fraud, a shareholder conflict, a
+            engaging a solicitor, a suspected fraud, a shareholder conflict, a
             deal that has gone wrong. A dispute accountant can help you
             understand the financial position, quantify what has happened, and
-            advise on whether formal legal proceedings are warranted — and
+            advise on whether formal legal proceedings are warranted, and
             prepare the evidence if they are.
           </p>
 
@@ -63,7 +63,7 @@ export default function BusinessesPage() {
             </li>
             <li>Shareholder or director dispute with financial at its core</li>
             <li>
-              M&A deal that has not gone as expected — completion accounts,
+              M&A deal that has not gone as expected, completion accounts,
               warranty claims, earn-out disputes
             </li>
             <li>

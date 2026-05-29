@@ -5,7 +5,7 @@ import { useCookieConsent } from "./CookieConsentContext";
 import { CookiePreferencesPanel } from "./CookiePreferencesPanel";
 
 /**
- * Fixed bottom banner — no document flow impact (avoids CLS).
+ * Fixed bottom banner, no document flow impact (avoids CLS).
  * Hidden after consent is stored in localStorage.
  */
 export function CookieBanner() {

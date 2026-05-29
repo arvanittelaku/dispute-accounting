@@ -55,7 +55,7 @@ export default function HomePage() {
       <JsonLd data={homepageSchema} />
       <PageHero
         title="Dispute Accounting Services for UK Solicitors & Businesses"
-        subtitle="When financial complexity meets legal conflict, you need a forensic accountant who speaks both languages — accounting and litigation. DisputeAccounting.com connects UK solicitors and businesses with qualified dispute accountants: forensic accounting experts who quantify losses, investigate fraud, trace assets, and deliver CPR Part 35 compliant expert witness reports."
+        subtitle="When financial complexity meets legal conflict, you need a forensic accountant who speaks both languages, accounting and litigation. DisputeAccounting.com connects UK solicitors and businesses with qualified dispute accountants: forensic accounting experts who quantify losses, investigate fraud, trace assets, and deliver CPR Part 35 compliant expert witness reports."
       />
       <Section>
         <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
@@ -146,7 +146,7 @@ export default function HomePage() {
         <p className="mt-8 text-body leading-relaxed">
           <strong className="text-heading">Dispute accounting</strong> is the
           forensic accounting industry&apos;s term for applying accounting
-          expertise to legal disputes — expert witness reports, loss
+          expertise to legal disputes, expert witness reports, loss
           quantification, fraud investigation, and more.{" "}
           <Link href="/what-is-dispute-accounting" className="text-accent underline">
             Read our full definition →

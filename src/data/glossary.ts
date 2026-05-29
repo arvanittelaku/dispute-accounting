@@ -14,7 +14,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "Allied Maples Principle",
     definition:
-      "From Allied Maples Group Ltd v Simmons & Simmons [1995] 1 WLR 1602: where a defendant's wrong deprives the claimant of a chance to obtain a benefit from a third party, damages reflect the value of the chance lost — expressed as a percentage probability multiplied by the full benefit. Widely applied in solicitor negligence and professional negligence loss quantification.",
+      "From Allied Maples Group Ltd v Simmons & Simmons [1995] 1 WLR 1602: where a defendant's wrong deprives the claimant of a chance to obtain a benefit from a third party, damages reflect the value of the chance lost, expressed as a percentage probability multiplied by the full benefit. Widely applied in solicitor negligence and professional negligence loss quantification.",
     link: { href: "/case-types/professional-negligence", label: "Professional negligence" },
   },
   {
@@ -56,7 +56,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "Expert Determination",
     definition:
-      "A contractual dispute resolution process whereby an independent expert makes a binding or final determination on defined issues — commonly completion accounts and earn-out disputes in M&A. The expert acts as determiner rather than witness, and the process is typically faster and more confidential than court proceedings.",
+      "A contractual dispute resolution process whereby an independent expert makes a binding or final determination on defined issues, commonly completion accounts and earn-out disputes in M&A. The expert acts as determiner rather than witness, and the process is typically faster and more confidential than court proceedings.",
     link: { href: "/case-types/ma-transaction-disputes", label: "M&A transaction disputes" },
   },
   {
@@ -128,13 +128,13 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "Loss Quantification",
     definition:
-      "The expert accounting process of calculating the monetary value of a legal claim, applying appropriate UK damages principles — but-for analysis for expectation loss, wasted expenditure for reliance loss, account of profits for equitable claims, and SAAMCo scope-of-duty limits in professional negligence.",
+      "The expert accounting process of calculating the monetary value of a legal claim, applying appropriate UK damages principles, but-for analysis for expectation loss, wasted expenditure for reliance loss, account of profits for equitable claims, and SAAMCo scope-of-duty limits in professional negligence.",
     link: { href: "/services#loss-quantification", label: "Loss quantification service" },
   },
   {
     term: "Norwich Pharmacal Order",
     definition:
-      "An equitable disclosure order requiring a third party — typically a bank, accountant, or intermediary — to disclose information identifying wrongdoers or tracing assets, where the claimant has no direct cause of action against the third party but needs information to pursue the true defendant. Named after Norwich Pharmacal Co v Customs and Excise Commissioners [1974] AC 133.",
+      "An equitable disclosure order requiring a third party, typically a bank, accountant, or intermediary, to disclose information identifying wrongdoers or tracing assets, where the claimant has no direct cause of action against the third party but needs information to pursue the true defendant. Named after Norwich Pharmacal Co v Customs and Excise Commissioners [1974] AC 133.",
     link: { href: "/guides/fraud-investigation-civil-recovery", label: "Fraud investigation guide" },
   },
   {
@@ -188,7 +188,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "Wasted Expenditure",
     definition:
-      "Expenditure incurred by a claimant in reliance on a contract that has been wasted due to breach — the measure of reliance loss under Anglia Television Ltd v Reed [1972]. Recoverable where expectation loss cannot be calculated or where the claimant elects reliance damages, subject to the bad bargain defence.",
+      "Expenditure incurred by a claimant in reliance on a contract that has been wasted due to breach, the measure of reliance loss under Anglia Television Ltd v Reed [1972]. Recoverable where expectation loss cannot be calculated or where the claimant elects reliance damages, subject to the bad bargain defence.",
     link: { href: "/guides/loss-quantification-guide", label: "Loss quantification guide" },
   },
   {

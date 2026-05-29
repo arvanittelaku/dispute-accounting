@@ -13,12 +13,12 @@ export const metadata = createMetadata({
   title:
     "Types of Accounting Disputes UK | When You Need a Forensic Accountant",
   description:
-    "The complete guide to types of disputes requiring a forensic accountant in the UK — commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.",
+    "The complete guide to types of disputes requiring a forensic accountant in the UK, commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.",
   path: "/dispute-types",
 });
 
 const pageDescription =
-  "The complete guide to types of disputes requiring a forensic accountant in the UK — commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.";
+  "The complete guide to types of disputes requiring a forensic accountant in the UK, commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.";
 
 export default function DisputeTypesPage() {
   const schemas = [
@@ -40,7 +40,7 @@ export default function DisputeTypesPage() {
       <JsonLd data={schemas} />
       <PageHero
         title="Types of Accounting Disputes: When UK Businesses & Solicitors Need a Forensic Accountant"
-        subtitle="A definition-first guide to the ten dispute categories where UK courts and tribunals rely on independent forensic accounting — from contract loss quantification to shareholder valuation, fraud tracing, and business interruption quantum."
+        subtitle="A definition-first guide to the ten dispute categories where UK courts and tribunals rely on independent forensic accounting, from contract loss quantification to shareholder valuation, fraud tracing, and business interruption quantum."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Dispute Types" },
@@ -49,7 +49,7 @@ export default function DisputeTypesPage() {
       <Section>
         <article className="prose-content mx-auto max-w-3xl">
           <p>
-            Not every legal dispute needs an accountant — but whenever the
+            Not every legal dispute needs an accountant, but whenever the
             outcome turns on financial records, valuation, or how much money was
             lost, a{" "}
             <Link href="/what-is-dispute-accounting">dispute accountant</Link>{" "}
@@ -72,7 +72,7 @@ export default function DisputeTypesPage() {
             litigation. Whether the question is how much was lost after a breach
             of contract, what a private company is worth in an unfair prejudice
             petition, whether fraud occurred, or what the accounts should have
-            shown before insolvency — courts and tribunals depend on independent
+            shown before insolvency, courts and tribunals depend on independent
             expert analysis that translates accounting evidence into answers
             lawyers can plead and judges can apply. A dispute accountant applies
             forensic investigative skills and UK damages principles to
@@ -219,7 +219,7 @@ export default function DisputeTypesPage() {
           </h2>
           <p>
             <strong>Definition:</strong> Disputes arising from breach or alleged
-            breach of a commercial contract — where the central remedy is
+            breach of a commercial contract, where the central remedy is
             financial compensation and the amount must be quantified from
             accounting evidence.
           </p>
@@ -237,7 +237,7 @@ export default function DisputeTypesPage() {
           <p>
             <strong>Expert role:</strong> Quantify loss in a{" "}
             <Link href="/glossary#cpr-part-35">CPR Part 35</Link> compliant
-            report — constructing the counterfactual position had the contract
+            report, constructing the counterfactual position had the contract
             been performed, comparing it to actual results, addressing
             mitigation, and producing sensitivity analysis on material
             assumptions. See our{" "}
@@ -258,7 +258,7 @@ export default function DisputeTypesPage() {
           <h2 id="shareholder-disputes">2. Shareholder Disputes</h2>
           <p>
             <strong>Definition:</strong> Disputes between shareholders of a
-            private company — typically unfair prejudice petitions under{" "}
+            private company, typically unfair prejudice petitions under{" "}
             <Link href="/glossary#s994-petition">
               section 994 of the Companies Act 2006
             </Link>
@@ -268,7 +268,7 @@ export default function DisputeTypesPage() {
             <strong>Key accounting issues:</strong> Share valuation (fair value
             vs fair market value); whether a minority discount applies (often
             disapplied in s994 cases where majority conduct has depressed
-            value); and financial investigation of alleged misconduct —
+            value); and financial investigation of alleged misconduct,
             excessive remuneration, related-party transactions, or improper
             distributions.
           </p>
@@ -298,7 +298,7 @@ export default function DisputeTypesPage() {
           <p>
             <strong>Definition:</strong> Investigations into suspected fraud,
             embezzlement, financial misrepresentation, or financial crime where
-            establishing what happened to money — and how much was lost — is
+            establishing what happened to money, and how much was lost, is
             essential.
           </p>
           <p>
@@ -333,7 +333,7 @@ export default function DisputeTypesPage() {
           <h2 id="ma-transaction-disputes">4. M&amp;A Transaction Disputes</h2>
           <p>
             <strong>Definition:</strong> Disputes arising from mergers,
-            acquisitions, or business sales — including{" "}
+            acquisitions, or business sales, including{" "}
             <Link href="/glossary#completion-accounts">completion accounts</Link>{" "}
             adjustments, warranty and indemnity claims,{" "}
             <Link href="/glossary#earn-out-agreement">earn-outs</Link>, and{" "}
@@ -409,7 +409,7 @@ export default function DisputeTypesPage() {
             6. Insolvency &amp; Administration Disputes
           </h2>
           <p>
-            <strong>Definition:</strong> Disputes arising in insolvency —
+            <strong>Definition:</strong> Disputes arising in insolvency,
             wrongful trading, transactions at undervalue, preferences, and
             challenges to office-holder or director conduct.
           </p>
@@ -444,7 +444,7 @@ export default function DisputeTypesPage() {
           <h2 id="partnership-disputes">7. Partnership Disputes</h2>
           <p>
             <strong>Definition:</strong> Disputes on dissolution of a
-            partnership or LLP — profit shares, goodwill, and capital account
+            partnership or LLP, profit shares, goodwill, and capital account
             balances on retirement or expulsion.
           </p>
           <p>
@@ -477,7 +477,7 @@ export default function DisputeTypesPage() {
             where loss must be linked to breach of duty.
           </p>
           <p>
-            <strong>Key accounting issues:</strong> The but-for position — what
+            <strong>Key accounting issues:</strong> The but-for position, what
             accounts, advice, or valuation should have been; causation between
             negligence and loss; and scope of duty under the{" "}
             <Link href="/glossary#saamco-principle">SAAMCo principle</Link> and{" "}

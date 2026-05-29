@@ -11,7 +11,7 @@ import { SJE_VS_PAE_CONTENT } from "@/data/shared-content";
 export const metadata = createMetadata({
   title: "How to Instruct a Dispute Accountant UK | Step-by-Step Guide",
   description:
-    "Step-by-step guide on finding, vetting, and instructing the right dispute accountant for your case — for solicitors and businesses.",
+    "Step-by-step guide on finding, vetting, and instructing the right dispute accountant for your case, for solicitors and businesses.",
   path: "/how-to-instruct",
 });
 
@@ -62,7 +62,7 @@ const businessSteps = [
   {
     title: "Gather Financial Records",
     content:
-      "Accounts, bank statements, contracts, and correspondence — the dispute accountant needs these for preliminary assessment.",
+      "Accounts, bank statements, contracts, and correspondence, the dispute accountant needs these for preliminary assessment.",
   },
   {
     title: "Preliminary Review",
@@ -111,7 +111,7 @@ export default function HowToInstructPage() {
       />
       <PageHero
         title="How to Instruct a Dispute Accountant"
-        subtitle="A step-by-step guide for UK solicitors and for businesses facing financial disputes — from preliminary review to CPR Part 35 compliant expert reports."
+        subtitle="A step-by-step guide for UK solicitors and for businesses facing financial disputes, from preliminary review to CPR Part 35 compliant expert reports."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "How to Instruct" },
@@ -123,7 +123,7 @@ export default function HowToInstructPage() {
           {solicitorSteps.map((step, i) => (
             <div key={step.title}>
               <h3>
-                Step {i + 1} — {step.title}
+                Step {i + 1}, {step.title}
               </h3>
               <p>{step.content}</p>
             </div>
@@ -132,14 +132,14 @@ export default function HowToInstructPage() {
           <h2>Section 2: For Businesses</h2>
           <p>
             Businesses and individuals can instruct a dispute accountant
-            directly — you do not always need a solicitor first. The dispute
+            directly, you do not always need a solicitor first. The dispute
             accountant can work with you to understand the financial position,
             then liaise with solicitors if formal proceedings are warranted.
           </p>
           {businessSteps.map((step, i) => (
             <div key={step.title}>
               <h3>
-                Step {i + 1} — {step.title}
+                Step {i + 1}, {step.title}
               </h3>
               <p>{step.content}</p>
             </div>

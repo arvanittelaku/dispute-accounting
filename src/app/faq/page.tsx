@@ -9,7 +9,7 @@ import { faqs } from "@/data/faqs";
 export const metadata = createMetadata({
   title: "Dispute Accounting FAQ UK | Common Questions Answered",
   description:
-    "Answers to common questions about dispute accounting in the UK — what it covers, who needs it, fees, CPR Part 35, and how forensic accountants help.",
+    "Answers to common questions about dispute accounting in the UK, what it covers, who needs it, fees, CPR Part 35, and how forensic accountants help.",
   path: "/faq",
 });
 

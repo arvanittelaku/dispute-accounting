@@ -63,7 +63,7 @@ export default function FeesPage() {
             preliminary review or a single-issue valuation. Retainers are used
             for ongoing disputes requiring regular advisory support. Contingency
             fee arrangements (no win, no fee) are not permitted for expert
-            witnesses under CPR Part 35 — the expert&apos;s duty to the court
+            witnesses under CPR Part 35, the expert&apos;s duty to the court
             requires independence from the outcome.
           </p>
 

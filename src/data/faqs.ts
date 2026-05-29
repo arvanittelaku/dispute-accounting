@@ -10,7 +10,7 @@ export const faqs: FAQ[] = [
     question:
       "What is the difference between dispute accounting and forensic accounting?",
     answer:
-      "Forensic accounting is the broader investigative discipline encompassing fraud detection, asset tracing, and litigation support. Dispute accounting is the subset focused on quantifying claims and producing court-admissible expert evidence in active litigation or arbitration. In UK practice the terms overlap considerably — most dispute accountants are forensic accountants, but not all forensic accountants give expert witness evidence.",
+      "Forensic accounting is the broader investigative discipline encompassing fraud detection, asset tracing, and litigation support. Dispute accounting is the subset focused on quantifying claims and producing court-admissible expert evidence in active litigation or arbitration. In UK practice the terms overlap considerably, most dispute accountants are forensic accountants, but not all forensic accountants give expert witness evidence.",
   },
   {
     question: "Which disputes need a dispute accountant?",
@@ -20,7 +20,7 @@ export const faqs: FAQ[] = [
   {
     question: "How does a dispute accountant differ from a regular accountant?",
     answer:
-      "A regular accountant prepares accounts, tax returns, and audit opinions on a historical, non-adversarial basis. A dispute accountant works within a legal framework, addresses causation, remoteness, mitigation, and scope of duty, and produces reports for disclosure to the court and opposing party. They must maintain independence under the Ikarian Reefer duties and are subject to cross-examination — skills rarely required in general practice.",
+      "A regular accountant prepares accounts, tax returns, and audit opinions on a historical, non-adversarial basis. A dispute accountant works within a legal framework, addresses causation, remoteness, mitigation, and scope of duty, and produces reports for disclosure to the court and opposing party. They must maintain independence under the Ikarian Reefer duties and are subject to cross-examination, skills rarely required in general practice.",
   },
   {
     question: "What is CPR Part 35?",
@@ -41,7 +41,7 @@ export const faqs: FAQ[] = [
   {
     question: "What credentials should a dispute accountant hold?",
     answer:
-      "Look for ACA or FCA (ICAEW), ACCA or FCCA, CFA, or CFE credentials with demonstrable forensic and litigation experience. For construction-related quantum, MRICS or FRICS is relevant. Beyond qualifications, the expert should have a track record of CPR Part 35 or FPR Part 25 compliant reports, professional indemnity insurance, and experience giving oral evidence. Sector expertise — financial services, property, technology — is often as important as the credential itself.",
+      "Look for ACA or FCA (ICAEW), ACCA or FCCA, CFA, or CFE credentials with demonstrable forensic and litigation experience. For construction-related quantum, MRICS or FRICS is relevant. Beyond qualifications, the expert should have a track record of CPR Part 35 or FPR Part 25 compliant reports, professional indemnity insurance, and experience giving oral evidence. Sector expertise, financial services, property, technology, is often as important as the credential itself.",
   },
   {
     question: "Can a business instruct a dispute accountant without a solicitor?",
@@ -51,7 +51,7 @@ export const faqs: FAQ[] = [
   {
     question: "How early should I instruct a dispute accountant?",
     answer:
-      "Instruct as early as possible — ideally at the pre-action protocol stage or immediately upon issuing proceedings — to allow adequate time for document review, analysis, and report preparation before court deadlines. Early instruction also allows the expert to advise on document preservation, the viability of the quantum claim, and whether additional disclosure should be sought before costs escalate.",
+      "Instruct as early as possible, ideally at the pre-action protocol stage or immediately upon issuing proceedings, to allow adequate time for document review, analysis, and report preparation before court deadlines. Early instruction also allows the expert to advise on document preservation, the viability of the quantum claim, and whether additional disclosure should be sought before costs escalate.",
   },
   {
     question: "What documents should I provide when instructing a dispute accountant?",
