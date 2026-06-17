@@ -3,7 +3,7 @@ export const SITE_URL =
   "https://www.disputeaccounting.com";
 
 export const SITE_NAME = "DisputeAccounting";
-export const SITE_EMAIL = "info@disputeaccounting.com";
+export const SITE_EMAIL = "contact@disputeaccounting.com";
 export const LINKEDIN_URL =
   "https://www.linkedin.com/company/dispute-accounting";
 

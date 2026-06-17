@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import { SITE_URL } from "./site";
 
-/** en-GB + x-default; omit en-US until US-localized pages exist */
+/** hreflang: single English locale until localized pages exist */
 export function buildHreflangAlternates(path: string = "") {
   const url = `${SITE_URL}${path}`;
   return {
     canonical: url,
     languages: {
-      "en-GB": url,
+      en: url,
       "x-default": url,
     },
   };
@@ -44,7 +44,7 @@ export function createMetadata({
       description,
       url: `${SITE_URL}${path}`,
       siteName: "DisputeAccounting",
-      locale: "en_GB",
+      locale: "en",
       type: "website",
     },
     twitter: {

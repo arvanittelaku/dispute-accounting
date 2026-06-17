@@ -54,8 +54,8 @@ export default function HomePage() {
     <>
       <JsonLd data={homepageSchema} />
       <PageHero
-        title="Dispute Accounting Services for UK Solicitors & Businesses"
-        subtitle="When financial complexity meets legal conflict, you need a forensic accountant who speaks both languages, accounting and litigation. DisputeAccounting.com connects UK solicitors and businesses with qualified dispute accountants: forensic accounting experts who quantify losses, investigate fraud, trace assets, and deliver CPR Part 35 compliant expert witness reports."
+        title="Dispute Accounting Services for Legal Teams & Businesses"
+        subtitle="When financial complexity meets legal conflict, you need a forensic accountant who speaks both languages, accounting and litigation. DisputeAccounting.com connects legal teams and businesses with qualified dispute accountants who quantify losses, investigate fraud, trace assets, and deliver court-compliant expert witness reports."
       />
       <Section>
         <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
@@ -87,7 +87,7 @@ export default function HomePage() {
 
       <Section>
         <h2 className="text-2xl font-bold text-heading sm:text-3xl">
-          Dispute Accounting UK: Key Facts
+          Dispute Accounting: Key Facts
         </h2>
         <ResponsiveTable className="mt-6">
           <table className="w-full min-w-[600px] border-collapse text-sm">

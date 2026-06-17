@@ -7,9 +7,9 @@ import { breadcrumbSchema, faqPageSchema } from "@/lib/schema";
 import { faqs } from "@/data/faqs";
 
 export const metadata = createMetadata({
-  title: "Dispute Accounting FAQ UK | Common Questions Answered",
+  title: "Dispute Accounting FAQ | Common Questions Answered",
   description:
-    "Answers to common questions about dispute accounting in the UK, what it covers, who needs it, fees, CPR Part 35, and how forensic accountants help.",
+    "Answers to common questions about dispute accounting in disputes, what it covers, who needs it, fees, CPR Part 35, and how forensic accountants help.",
   path: "/faq",
 });
 
@@ -27,7 +27,7 @@ export default function FAQPage() {
       />
       <PageHero
         title="Dispute Accounting FAQ"
-        subtitle="Answers to the most common questions UK solicitors and businesses ask about dispute accounting and forensic accountants."
+        subtitle="Answers to the most common questions legal teams and businesses ask about dispute accounting and forensic accountants."
         breadcrumbs={[{ label: "Home", href: "/" }, { label: "FAQ" }]}
       />
       <Section>

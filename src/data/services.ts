@@ -22,7 +22,7 @@ export const services: Service[] = [
     description:
       "Independent quantification of financial loss across commercial, shareholder, and professional negligence disputes using but-for modelling, reliance loss, and SAAMCo-compliant methodologies.",
     content:
-      "Loss quantification, often referred to as quantum in UK litigation, is the forensic accounting process of translating a legal cause of action into a defensible monetary figure. Our dispute accountants apply the compensatory principle from Robinson v Harman [1848], constructing but-for models for expectation loss, reliance schedules for wasted expenditure under Anglia Television Ltd v Reed [1972], and account of profits where equitable remedies apply. Each engagement addresses causation, remoteness under Hadley v Baxendale [1854], mitigation, and the scope of duty under South Australia Asset Management Corp v York Montague Ltd [1997] (SAAMCo) where professional negligence is alleged. Reports are structured for CPR Part 35 compliance, with transparent assumptions, sensitivity analysis on material variables, and clear separation of heads of loss. Whether the dispute concerns breach of contract, tortious interference, or director misconduct, we provide court-ready quantum that withstands scrutiny from joint expert meetings through to cross-examination at trial.",
+      "Loss quantification, often referred to as quantum in litigation, is the forensic accounting process of translating a legal cause of action into a defensible monetary figure. Our dispute accountants apply the compensatory principle from Robinson v Harman [1848], constructing but-for models for expectation loss, reliance schedules for wasted expenditure under Anglia Television Ltd v Reed [1972], and account of profits where equitable remedies apply. Each engagement addresses causation, remoteness under Hadley v Baxendale [1854], mitigation, and the scope of duty under South Australia Asset Management Corp v York Montague Ltd [1997] (SAAMCo) where professional negligence is alleged. Reports are structured for CPR Part 35 compliance, with transparent assumptions, sensitivity analysis on material variables, and clear separation of heads of loss. Whether the dispute concerns breach of contract, tortious interference, or director misconduct, we provide court-ready quantum that withstands scrutiny from joint expert meetings through to cross-examination at trial.",
     methodology: [
       {
         phase: "Instruction & Scoping",
@@ -39,7 +39,7 @@ export const services: Service[] = [
       {
         phase: "Loss Modelling",
         whatWeDo:
-          "Build but-for, reliance, or account of profits models as appropriate, applying UK damages principles and addressing mitigation.",
+          "Build but-for, reliance, or account of profits models as appropriate, applying damages principles and addressing mitigation.",
         deliverable: "Working papers & loss schedules",
       },
       {
@@ -59,10 +59,10 @@ export const services: Service[] = [
       {
         question: "What is the difference between loss quantification and quantum?",
         answer:
-          "In UK practice the terms are often used interchangeably: both refer to calculating the monetary value of a claim. 'Quantum' is the legal term for the amount of damages; loss quantification is the expert accounting process that produces the figure the court awards. Our reports bridge both, applying legal tests to financial evidence.",
+          "In practice the terms are often used interchangeably: both refer to calculating the monetary value of a claim. 'Quantum' is the legal term for the amount of damages; loss quantification is the expert accounting process that produces the figure the court awards. Our reports bridge both, applying legal tests to financial evidence.",
       },
       {
-        question: "Which methodology is used for loss quantification in UK disputes?",
+        question: "Which methodology is used for loss quantification in disputes?",
         answer:
           "The methodology depends on the cause of action. Expectation loss uses but-for analysis comparing projected performance with actual results. Reliance loss quantifies wasted expenditure. Professional negligence claims require SAAMCo scope-of-duty analysis. We select and document the appropriate framework in every engagement.",
       },
@@ -74,7 +74,7 @@ export const services: Service[] = [
     description:
       "Forensic investigation of suspected fraud, asset misappropriation, and financial irregularities for civil claims, regulatory proceedings, and POCA-related recovery.",
     content:
-      "Fraud investigation in UK dispute accounting goes beyond routine audit: it applies forensic techniques to identify deliberate misrepresentation, concealed transactions, and patterns indicative of dishonesty. Our investigators analyse bank statements, general ledgers, journal entries, and related-party transactions to reconstruct the true financial position and quantify misappropriated funds. Engagements frequently support claims for deceit, conspiracy to defraud, breach of fiduciary duty, and unjust enrichment, as well as applications under the Proceeds of Crime Act 2002 (POCA) where criminal or civil recovery is pursued. We apply Benford's Law analysis, journal entry testing, and lifestyle benchmarking where appropriate, and document the chain of evidence to civil standards of proof, balance of probabilities in most civil fraud claims, with clear articulation of alternative explanations. Reports are suitable for without-prejudice settlement discussions, interim injunctions, and full trial, and our experts are experienced in giving oral evidence on tracing paths and quantification of loss caused by fraudulent conduct.",
+      "Fraud investigation in dispute accounting goes beyond routine audit: it applies forensic techniques to identify deliberate misrepresentation, concealed transactions, and patterns indicative of dishonesty. Our investigators analyse bank statements, general ledgers, journal entries, and related-party transactions to reconstruct the true financial position and quantify misappropriated funds. Engagements frequently support claims for deceit, conspiracy to defraud, breach of fiduciary duty, and unjust enrichment, as well as applications under the Proceeds of Crime Act 2002 (POCA) where criminal or civil recovery is pursued. We apply Benford's Law analysis, journal entry testing, and lifestyle benchmarking where appropriate, and document the chain of evidence to civil standards of proof, balance of probabilities in most civil fraud claims, with clear articulation of alternative explanations. Reports are suitable for without-prejudice settlement discussions, interim injunctions, and full trial, and our experts are experienced in giving oral evidence on tracing paths and quantification of loss caused by fraudulent conduct.",
     methodology: [
       {
         phase: "Risk Assessment",
@@ -163,7 +163,7 @@ export const services: Service[] = [
       {
         question: "What is the difference between tracing at law and tracing in equity?",
         answer:
-          "Tracing at common law is more restrictive and generally requires identifiable proceeds in unchanged form. Tracing in equity is more flexible and permits following value into substituted assets and mixed accounts, subject to proprietary claim rules. Our reports address which regime applies and document the trace accordingly for UK courts.",
+          "Tracing at common law is more restrictive and generally requires identifiable proceeds in unchanged form. Tracing in equity is more flexible and permits following value into substituted assets and mixed accounts, subject to proprietary claim rules. Our reports address which regime applies and document the trace accordingly for courts.",
       },
       {
         question: "Can assets held offshore be traced?",
@@ -178,7 +178,7 @@ export const services: Service[] = [
     description:
       "Independent valuations of businesses and shareholdings for shareholder disputes, M&A completion accounts, matrimonial proceedings, and expert determination.",
     content:
-      "Business and share valuation sits at the heart of many UK disputes where the court or parties must determine fair value rather than a negotiated price. Our dispute accountants apply recognised valuation approaches, income (DCF), market (comparable transactions and multiples), and asset-based, selecting the method appropriate to the company, its stage, and the purpose of the valuation under the Share Valuation Regulations 2008, the Companies Act 2006 unfair prejudice framework, or contractual valuation clauses. Minority discounts and control premiums are applied only where legally permissible: the House of Lords in O'Neill v Phillips [1999] and subsequent unfair prejudice case law requires careful analysis of whether a minority shareholder is entitled to pro rata fair value without discount. We also value businesses for matrimonial proceedings under section 25 of the Matrimonial Causes Act 1973, completion account disputes, earn-out disagreements, and partnership dissolution. Every valuation report sets out assumptions, normalisation adjustments to maintain earnings, and sensitivity analysis, and complies with CPR Part 35 or FPR Part 25 as applicable. Where disputes are referred to expert determination, we act as determiner or advising expert per the appointment terms.",
+      "Business and share valuation sits at the heart of many disputes where the court or parties must determine fair value rather than a negotiated price. Our dispute accountants apply recognised valuation approaches, income (DCF), market (comparable transactions and multiples), and asset-based, selecting the method appropriate to the company, its stage, and the purpose of the valuation under the Share Valuation Regulations 2008, the Companies Act 2006 unfair prejudice framework, or contractual valuation clauses. Minority discounts and control premiums are applied only where legally permissible: the House of Lords in O'Neill v Phillips [1999] and subsequent unfair prejudice case law requires careful analysis of whether a minority shareholder is entitled to pro rata fair value without discount. We also value businesses for matrimonial proceedings under section 25 of the Matrimonial Causes Act 1973, completion account disputes, earn-out disagreements, and partnership dissolution. Every valuation report sets out assumptions, normalisation adjustments to maintain earnings, and sensitivity analysis, and complies with CPR Part 35 or FPR Part 25 as applicable. Where disputes are referred to expert determination, we act as determiner or advising expert per the appointment terms.",
     methodology: [
       {
         phase: "Purpose & Standard",
@@ -201,7 +201,7 @@ export const services: Service[] = [
       {
         phase: "Discounts & Premiums",
         whatWeDo:
-          "Analyse minority interest, marketability, and control issues in line with UK case law and instruction.",
+          "Analyse minority interest, marketability, and control issues in line with case law and instruction.",
         deliverable: "Adjustment schedule",
       },
       {
@@ -230,7 +230,7 @@ export const services: Service[] = [
     description:
       "Forensic accounting for unfair prejudice petitions, partnership dissolution, deadlock buy-outs, and breach of directors' duties claims under the Companies Act 2006.",
     content:
-      "Shareholder and partnership disputes in England and Wales frequently require a dispute accountant to unravel years of management accounts, director remuneration, dividends, and related-party transactions. Under section 994 of the Companies Act 2006, a member may petition where the company's affairs are conducted in a manner unfairly prejudicial to their interests; the court's remedy often includes a buy-out order at fair value. We analyse whether profits have been diverted through excessive director salaries, undisclosed related-party dealings, or improper expense claims, and quantify the financial prejudice suffered. In partnership disputes governed by the Partnership Act 1890 or bespoke partnership agreements, we address profit allocation, capital accounts, and goodwill on dissolution. Our work supports without prejudice negotiations, mediation, and trial, including preparation of Scott Schedules of disputed items where appropriate. We also advise on section 212 misfeasance claims and breach of fiduciary duty quantification, applying account of profits methodology where equitable accounting is sought. All reports comply with CPR Part 35 and are structured for joint expert discussion where the court directs a Single Joint Expert on valuation issues.",
+      "Shareholder and partnership disputes frequently require a dispute accountant to unravel years of management accounts, director remuneration, dividends, and related-party transactions. Under section 994 of the Companies Act 2006, a member may petition where the company's affairs are conducted in a manner unfairly prejudicial to their interests; the court's remedy often includes a buy-out order at fair value. We analyse whether profits have been diverted through excessive director salaries, undisclosed related-party dealings, or improper expense claims, and quantify the financial prejudice suffered. In partnership disputes governed by the Partnership Act 1890 or bespoke partnership agreements, we address profit allocation, capital accounts, and goodwill on dissolution. Our work supports without prejudice negotiations, mediation, and trial, including preparation of Scott Schedules of disputed items where appropriate. We also advise on section 212 misfeasance claims and breach of fiduciary duty quantification, applying account of profits methodology where equitable accounting is sought. All reports comply with CPR Part 35 and are structured for joint expert discussion where the court directs a Single Joint Expert on valuation issues.",
     methodology: [
       {
         phase: "Governance Review",
@@ -384,7 +384,7 @@ export const services: Service[] = [
     id: "expert-witness-reports",
     name: "Expert Witness Reports & Testimony",
     description:
-      "CPR Part 35 and FPR Part 25 compliant expert reports, joint statements, conference attendance, and oral evidence for UK courts, tribunals, and arbitration.",
+      "CPR Part 35 and FPR Part 25 compliant expert reports, joint statements, conference attendance, and oral evidence for courts, tribunals, and arbitration.",
     content:
       "Expert witness reports are the primary vehicle through which dispute accounting evidence reaches the English court. Under CPR Part 35 and the associated Practice Direction, experts must provide independent opinions within their area of expertise, comply with the report format requirements, and confirm their understanding of the overriding duty to the court. Our experts prepare reports addressing specific questions of quantum, valuation, and forensic accounting set out in the letter of instruction, with clear separation of instructions, assumptions, and opinions. We attend experts' meetings with opposing experts to produce joint statements identifying agreed facts, agreed methodology, and remaining areas of disagreement, often narrowing trial issues significantly. Where appointed as Single Joint Expert, we maintain independence from both parties while responding to joint instructions. Party-appointed experts attend pre-trial conferences with counsel and give oral evidence under cross-examination. We also accept appointments in arbitration (LCIA, ICC, UNCITRAL) and expert determination, adapting report format to the applicable rules. Shadow expert engagements, where we advise counsel without producing a report, are available for case strategy and critique of opposing expert evidence, subject to proper disclosure rules.",
     methodology: [

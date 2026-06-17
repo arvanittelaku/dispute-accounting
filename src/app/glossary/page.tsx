@@ -8,9 +8,9 @@ import { glossaryTerms, getGlossaryFaqs } from "@/data/glossary";
 import { GlossarySearch } from "./GlossarySearch";
 
 export const metadata = createMetadata({
-  title: "Dispute Accounting Glossary | Key UK Forensic Accounting Terms",
+  title: "Dispute Accounting Glossary | Key Forensic Accounting Terms",
   description:
-    "Definitions of key dispute accounting and forensic accounting terms for UK litigation, from asset tracing to Wrotham Park damages, CPR Part 35, and quantum.",
+    "Definitions of key dispute accounting and forensic accounting terms for litigation, from asset tracing to Wrotham Park damages, CPR Part 35, and quantum.",
   path: "/glossary",
 });
 
@@ -28,7 +28,7 @@ export default function GlossaryPage() {
       />
       <PageHero
         title="Dispute Accounting Glossary"
-        subtitle="Key UK legal and forensic accounting terms used in dispute accounting and expert witness reports, from but-for analysis to CPR Part 35."
+        subtitle="Key legal and forensic accounting terms used in dispute accounting and expert witness reports, from but-for analysis to CPR Part 35."
         breadcrumbs={[{ label: "Home", href: "/" }, { label: "Glossary" }]}
       />
       <Section>

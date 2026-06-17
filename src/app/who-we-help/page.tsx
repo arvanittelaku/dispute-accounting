@@ -8,9 +8,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { breadcrumbSchema } from "@/lib/schema";
 
 export const metadata = createMetadata({
-  title: "Who We Help | Dispute Accounting for Solicitors & Businesses UK",
+  title: "Who We Help | Dispute Accounting for Solicitors & Businesses",
   description:
-    "Dispute accounting services for UK solicitors and law firms needing expert witnesses, and for businesses and individuals facing financial disputes.",
+    "Dispute accounting services for legal teams and law firms needing expert witnesses, and for businesses and individuals facing financial disputes.",
   path: "/who-we-help",
 });
 
@@ -25,7 +25,7 @@ export default function WhoWeHelpPage() {
       />
       <PageHero
         title="Who We Help"
-        subtitle="DisputeAccounting.com serves two distinct audiences, UK solicitors instructing expert witnesses, and businesses and individuals facing financial disputes. Both need independent forensic accounting expertise; the instruction pathway differs."
+        subtitle="DisputeAccounting.com serves two distinct audiences, legal teams instructing expert witnesses, and businesses and individuals facing financial disputes. Both need independent forensic accounting expertise; the instruction pathway differs."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Who We Help" },

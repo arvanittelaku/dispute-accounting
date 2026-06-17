@@ -8,7 +8,7 @@ import { breadcrumbSchema } from "@/lib/schema";
 import { CPR_PART_35_CONTENT } from "@/data/shared-content";
 
 export const metadata = createMetadata({
-  title: "What Is Dispute Accounting? | UK Definition & Role",
+  title: "What Is Dispute Accounting? | Definition & Role",
   description:
     "Dispute accounting is the application of forensic accounting expertise to litigation, arbitration, and commercial disputes. Loss quantification, fraud investigation, and expert witness reports explained.",
   path: "/what-is-dispute-accounting",
@@ -125,7 +125,7 @@ export default function WhatIsDisputeAccountingPage() {
 
           <h2>Dispute Accounting vs Forensic Accounting</h2>
           <p>
-            These terms are used interchangeably in the UK market.
+            These terms are used interchangeably in disputes market.
             &quot;Forensic accounting&quot; is the broader term covering all
             investigative financial work; &quot;dispute accounting&quot;
             specifically refers to forensic accounting applied in the context of

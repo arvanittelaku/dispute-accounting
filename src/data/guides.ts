@@ -6,12 +6,12 @@ const guides: GuidePage[] = [
     title: "What Forensic Accountants Do in Disputes",
     h1: "What Forensic Accountants Do in Legal Disputes: A Complete Guide",
     metaTitle:
-      "What Forensic Accountants Do in UK Legal Disputes | Dispute Accounting Guide",
+      "What Forensic Accountants Do in Legal Disputes | Dispute Accounting Guide",
     metaDescription:
-      "Roles of dispute accountants in UK litigation: expert witness, investigator, shadow expert, SJE and expert determiner. When solicitors need each role and how they differ under CPR Part 35.",
+      "Roles of dispute accountants in litigation: expert witness, investigator, shadow expert, SJE and expert determiner. When solicitors need each role and how they differ under CPR Part 35.",
     aboutServiceId: "expert-witness-reports",
     paragraphs: [
-      "Dispute accounting is the application of forensic accounting expertise to legal disputes, quantifying loss, investigating financial misconduct, valuing businesses, and giving independent expert evidence to the court. In England and Wales, the term encompasses every accounting-related role in litigation and arbitration, from pre-action advisory work through to trial testimony under CPR Part 35.",
+      "Dispute accounting is the application of forensic accounting expertise to legal disputes, quantifying loss, investigating financial misconduct, valuing businesses, and giving independent expert evidence to the court. The term encompasses every accounting-related role in litigation and arbitration, from pre-action advisory work through to trial testimony under CPR Part 35.",
       "Solicitors instruct dispute accountants in distinct capacities depending on the stage of the case, the forum, and whether the parties require a single independent opinion or adversarial expert evidence. Understanding which role is appropriate, and the duties that attach to each, is essential to effective case management and cost control.",
     ],
     sections: [
@@ -74,9 +74,9 @@ const guides: GuidePage[] = [
     title: "Loss Quantification Guide",
     h1: "Loss Quantification in Disputes: Methodology & Expert Evidence",
     metaTitle:
-      "Loss Quantification Guide UK | But-For, Hadley v Baxendale & Expert Evidence",
+      "Loss Quantification Guide | But-For, Hadley v Baxendale & Expert Evidence",
     metaDescription:
-      "How UK dispute accountants quantify loss: but-for methodology, expectation vs reliance damages, Hadley v Baxendale remoteness, mitigation, and building defensible loss models for court.",
+      "How dispute accountants quantify loss: but-for methodology, expectation vs reliance damages, Hadley v Baxendale remoteness, mitigation, and building defensible loss models for court.",
     aboutServiceId: "loss-quantification",
     paragraphs: [
       "Loss quantification is the forensic process of translating a legal wrong, breach of contract, tort, or unfair prejudice, into a monetary figure the court can award. Under the compensatory principle in Robinson v Harman [1848], the claimant should be placed in the position they would have been in but for the wrong, so far as money can do so.",
@@ -113,7 +113,7 @@ const guides: GuidePage[] = [
       {
         question: "What is the but-for methodology in simple terms?",
         answer:
-          "The but-for methodology compares what actually happened financially after the breach with what would have happened had the breach not occurred. The difference, after appropriate cost adjustments, is the quantified loss. It is the standard approach to expectation damages in UK commercial litigation.",
+          "The but-for methodology compares what actually happened financially after the breach with what would have happened had the breach not occurred. The difference, after appropriate cost adjustments, is the quantified loss. It is the standard approach to expectation damages in commercial litigation.",
       },
       {
         question:
@@ -142,9 +142,9 @@ const guides: GuidePage[] = [
     title: "Fraud Investigation & Civil Recovery",
     h1: "Fraud Investigation & Civil Recovery: A Dispute Accounting Guide",
     metaTitle:
-      "Fraud Investigation & Civil Recovery UK | Asset Tracing & POCA Guide",
+      "Fraud Investigation & Civil Recovery | Asset Tracing & POCA Guide",
     metaDescription:
-      "Civil fraud claims, investigative methodology, asset tracing, POCA, Norwich Pharmacal orders and freezing injunctions, the dispute accountant's role in UK civil recovery for solicitors.",
+      "Civil fraud claims, investigative methodology, asset tracing, POCA, Norwich Pharmacal orders and freezing injunctions, the dispute accountant's role in civil recovery for solicitors.",
     aboutServiceId: "fraud-investigation",
     paragraphs: [
       "Civil fraud and asset recovery proceedings require accounting evidence at every stage: to establish dishonest misappropriation, to quantify loss, to trace misapplied funds through bank accounts and corporate structures, and to support without-notice applications for freezing and disclosure orders.",
@@ -154,7 +154,7 @@ const guides: GuidePage[] = [
       {
         heading: "Structure of Civil Fraud Claims",
         content:
-          "Civil fraud claims in England and Wales typically plead deceit, unlawful means conspiracy, or breach of fiduciary duty, with damages or an account of profits as remedies. The claimant must prove dishonesty (Ivey v Genting Casinos [2017] applied to civil claims), causation, and loss. Dishonest assistance and knowing receipt claims against third parties require proof of knowledge and participation.\n\nThe dispute accountant supports liability and quantum: identifying transactions inconsistent with legitimate business purpose, quantifying the net loss to the claimant, and calculating disgorgement of profits where an account of profits is sought. Parallel criminal investigation does not stay civil proceedings, but privilege and disclosure issues require careful coordination with the legal team.",
+          "Civil fraud claims typically plead deceit, unlawful means conspiracy, or breach of fiduciary duty, with damages or an account of profits as remedies. The claimant must prove dishonesty (Ivey v Genting Casinos [2017] applied to civil claims), causation, and loss. Dishonest assistance and knowing receipt claims against third parties require proof of knowledge and participation.\n\nThe dispute accountant supports liability and quantum: identifying transactions inconsistent with legitimate business purpose, quantifying the net loss to the claimant, and calculating disgorgement of profits where an account of profits is sought. Parallel criminal investigation does not stay civil proceedings, but privilege and disclosure issues require careful coordination with the legal team.",
       },
       {
         heading: "Investigative Methodology",
@@ -210,9 +210,9 @@ const guides: GuidePage[] = [
     title: "Shareholder Dispute Accounting Guide",
     h1: "Shareholder Disputes: Accounting Evidence Guide for Solicitors",
     metaTitle:
-      "Shareholder Dispute Accounting Guide UK | S994, Valuation & Hidden Assets",
+      "Shareholder Dispute Accounting Guide | S994, Valuation & Hidden Assets",
     metaDescription:
-      "Accounting evidence in UK shareholder disputes: S994 unfair prejudice petitions, valuation vs investigation, hidden transactions, expert meetings and joint statements for solicitors.",
+      "Accounting evidence in shareholder disputes: S994 unfair prejudice petitions, valuation vs investigation, hidden transactions, expert meetings and joint statements for solicitors.",
     aboutServiceId: "shareholder-partnership-disputes",
     paragraphs: [
       "Shareholder and partnership disputes under section 994 of the Companies Act 2006, just and equitable winding-up petitions, and breach of shareholders' agreement claims depend heavily on accounting evidence, to establish unfair prejudice, to value the petitioner's interest, and to uncover diversion or undisclosed benefits.",
@@ -278,9 +278,9 @@ const guides: GuidePage[] = [
     title: "M&A Dispute Accounting Guide",
     h1: "M&A Transaction Disputes: Dispute Accounting Guide",
     metaTitle:
-      "M&A Dispute Accounting Guide UK | Completion Accounts, Earn-Out & Warranty",
+      "M&A Dispute Accounting Guide | Completion Accounts, Earn-Out & Warranty",
     metaDescription:
-      "Dispute accountants in UK M&A litigation: completion accounts disputes, warranty and indemnity claims, earn-outs, locked box mechanisms, and accounting expert evidence for solicitors.",
+      "Dispute accountants in M&A litigation: completion accounts disputes, warranty and indemnity claims, earn-outs, locked box mechanisms, and accounting expert evidence for solicitors.",
     aboutServiceId: "ma-transaction-disputes",
     paragraphs: [
       "M&A disputes arise when parties disagree on the price paid, the financial position at completion, or post-completion performance affecting deferred consideration. Accounting experts interpret sale and purchase agreements, apply GAAP and agreed accounting policies, and quantify adjustments, warranty losses, and earn-out shortfalls.",
@@ -345,9 +345,9 @@ const guides: GuidePage[] = [
     title: "Instructing a Dispute Accountant",
     h1: "How to Instruct a Dispute Accountant: A Solicitor's Guide",
     metaTitle:
-      "How to Instruct a Dispute Accountant UK | Letter of Instruction & CPR Part 35",
+      "How to Instruct a Dispute Accountant | Letter of Instruction & CPR Part 35",
     metaDescription:
-      "UK solicitor guide to instructing dispute accountants: preliminary review, letter of instruction, documents, fees, CPR Part 35 compliance, and single joint expert joint instructions.",
+      "Solicitor guide to instructing dispute accountants: preliminary review, letter of instruction, documents, fees, CPR Part 35 compliance, and single joint expert joint instructions.",
     aboutServiceId: "expert-witness-reports",
     paragraphs: [
       "The quality of accounting expert evidence depends on the instruction. A clear letter of instruction aligns the expert's work with the pleaded case, defines scope, and satisfies CPR Part 35 requirements. Poor instructions produce unfocused reports, scope disputes on fees, and vulnerable evidence at trial.",

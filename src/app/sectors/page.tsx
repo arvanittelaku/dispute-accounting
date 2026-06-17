@@ -8,9 +8,9 @@ import { breadcrumbSchema } from "@/lib/schema";
 import { sectors } from "@/data/sectors";
 
 export const metadata = createMetadata({
-  title: "Dispute Accounting by Sector | UK Industry Specialists",
+  title: "Dispute Accounting by Sector | Industry Specialists",
   description:
-    "Sector-specialist dispute accountants for UK litigation. Financial services, construction, technology, professional practices, retail, and more.",
+    "Sector-specialist dispute accountants for litigation. Financial services, construction, technology, professional practices, retail, and more.",
   path: "/sectors",
 });
 

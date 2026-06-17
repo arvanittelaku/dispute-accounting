@@ -8,9 +8,9 @@ import { breadcrumbSchema } from "@/lib/schema";
 import { caseTypes } from "@/data/case-types";
 
 export const metadata = createMetadata({
-  title: "Case Types Requiring Dispute Accounting | UK Forensic Accountant Guide",
+  title: "Case Types Requiring Dispute Accounting | Forensic Accountant Guide",
   description:
-    "Which UK disputes need a dispute accountant? Commercial disputes, fraud, shareholder conflicts, M&A, matrimonial, insolvency, and professional negligence explained.",
+    "Which disputes need a dispute accountant? Commercial disputes, fraud, shareholder conflicts, M&A, matrimonial, insolvency, and professional negligence explained.",
   path: "/case-types",
 });
 
@@ -25,7 +25,7 @@ export default function CaseTypesPage() {
       />
       <PageHero
         title="Case Types Requiring Dispute Accounting"
-        subtitle="UK litigation and disputes spanning commercial contracts, fraud, shareholder conflicts, M&A, matrimonial financial remedy, insolvency, and insurance each require specialist dispute accounting. Select your case type for expert guidance and FAQs."
+        subtitle="litigation and disputes spanning commercial contracts, fraud, shareholder conflicts, M&A, matrimonial financial remedy, insolvency, and insurance each require specialist dispute accounting. Select your case type for expert guidance and FAQs."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Case Types" },

@@ -9,7 +9,7 @@ interface CTASectionProps {
 
 export function CTASection({
   title = "Ready to Instruct a Dispute Accountant?",
-  description = "Submit your case details and we will match you with a qualified UK dispute accounting expert. CPR Part 35 and FPR Part 25 compliant reports. Response within 1 business day.",
+  description = "Submit your case details and we will match you with a qualified dispute accounting expert. Court-compliant expert reports. Response within 1 business day.",
   buttonLabel = "Instruct an Expert",
 }: CTASectionProps) {
   return (

@@ -9,7 +9,7 @@ import { ResponsiveTable } from "@/components/ui/ResponsiveTable";
 import { SJE_VS_PAE_CONTENT } from "@/data/shared-content";
 
 export const metadata = createMetadata({
-  title: "How to Instruct a Dispute Accountant UK | Step-by-Step Guide",
+  title: "How to Instruct a Dispute Accountant | Step-by-Step Guide",
   description:
     "Step-by-step guide on finding, vetting, and instructing the right dispute accountant for your case, for solicitors and businesses.",
   path: "/how-to-instruct",
@@ -111,7 +111,7 @@ export default function HowToInstructPage() {
       />
       <PageHero
         title="How to Instruct a Dispute Accountant"
-        subtitle="A step-by-step guide for UK solicitors and for businesses facing financial disputes, from preliminary review to CPR Part 35 compliant expert reports."
+        subtitle="A step-by-step guide for legal teams and for businesses facing financial disputes, from preliminary review to CPR Part 35 compliant expert reports."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "How to Instruct" },

@@ -16,9 +16,9 @@ import { ServiceFAQs } from "@/components/ServiceFAQs";
 import { RelatedLinks } from "@/components/RelatedLinks";
 
 export const metadata = createMetadata({
-  title: "Dispute Accounting Services UK | Full Service List",
+  title: "Dispute Accounting Services | Full Service List",
   description:
-    "UK dispute accounting services: loss quantification, fraud investigation, asset tracing, business valuation, shareholder disputes, M&A disputes, and expert witness reports.",
+    "dispute accounting services: loss quantification, fraud investigation, asset tracing, business valuation, shareholder disputes, M&A disputes, and expert witness reports.",
   path: "/services",
 });
 
@@ -46,8 +46,8 @@ export default function ServicesPage() {
         ]}
       />
       <PageHero
-        title="Dispute Accounting Services UK"
-        subtitle="From loss quantification and fraud investigation to business valuation, shareholder disputes, and CPR Part 35 expert witness reports, our UK dispute accountants support solicitors and businesses across every type of financial dispute."
+        title="Dispute Accounting Services"
+        subtitle="From loss quantification and fraud investigation to business valuation, shareholder disputes, and CPR Part 35 expert witness reports, our dispute accountants support solicitors and businesses across every type of financial dispute."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services" },

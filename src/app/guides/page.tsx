@@ -8,9 +8,9 @@ import { breadcrumbSchema } from "@/lib/schema";
 import { guides } from "@/data/guides";
 
 export const metadata = createMetadata({
-  title: "Guides: Dispute Accounting UK | Forensic Accounting & Disputes",
+  title: "Guides: Dispute Accounting | Forensic Accounting & Disputes",
   description:
-    "In-depth guides on dispute accounting for UK solicitors and businesses, fraud investigation, loss quantification, shareholder disputes, M&A, and more.",
+    "In-depth guides on dispute accounting for legal teams and businesses, fraud investigation, loss quantification, shareholder disputes, M&A, and more.",
   path: "/guides",
 });
 
@@ -24,7 +24,7 @@ export default function GuidesPage() {
         ])}
       />
       <PageHero
-        title="Guides: Dispute Accounting for UK Solicitors & Businesses"
+        title="Guides: Dispute Accounting for Solicitors & Businesses"
         subtitle="In-depth guides on instructing dispute accountants, loss quantification methodology, fraud investigation, shareholder disputes, and M&A accounting disputes."
         breadcrumbs={[
           { label: "Home", href: "/" },

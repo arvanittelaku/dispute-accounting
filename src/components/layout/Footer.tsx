@@ -31,8 +31,6 @@ const caseTypesCol = [
 const resourcesCol = [
   { href: "/guides", label: "Guides" },
   { href: "/glossary", label: "Glossary" },
-  { href: "/faq", label: "FAQ" },
-  { href: "/fees", label: "Fees" },
   { href: "/how-to-instruct", label: "How to Instruct" },
   { href: "/what-is-dispute-accounting", label: "What Is Dispute Accounting?" },
 ];
@@ -43,7 +41,6 @@ const whoWeHelpCol = [
     href: "/who-we-help/businesses-individuals",
     label: "Businesses & Individuals",
   },
-  { href: "/experts", label: "Our Experts" },
   { href: "/qualifications", label: "Qualifications" },
   { href: "/contact", label: "Contact" },
 ];
@@ -129,7 +126,7 @@ export function Footer() {
             <SiteEmailLink className="font-medium text-white hover:underline" />
           </p>
           <p className="mt-3 text-sm text-white/60">
-            DisputeAccounting.com connects solicitors and businesses with dispute
+            DisputeAccounting.com connects legal teams and businesses with dispute
             accounting experts. We are not a law firm and do not provide legal
             advice.
           </p>
@@ -146,7 +143,7 @@ export function Footer() {
             <CookieSettingsButton />
           </div>
           <p className="mt-4 text-sm text-white/50">
-            © 2025 DisputeAccounting. England and Wales.
+            © 2025 DisputeAccounting.
           </p>
         </div>
       </div>

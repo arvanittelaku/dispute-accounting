@@ -51,7 +51,7 @@ export default function CookiesPage() {
 
           <h2>Your Choices (GDPR &amp; ePrivacy)</h2>
           <p>
-            Under UK GDPR and the Privacy and Electronic Communications
+            Under GDPR and the Privacy and Electronic Communications
             Regulations (PECR), we must obtain your consent before placing
             non-essential cookies on your device. When you first visit our site,
             you can <strong>Accept All</strong>,{" "}

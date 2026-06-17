@@ -38,7 +38,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "CPR Part 35",
     definition:
-      "Part 35 of the Civil Procedure Rules governs expert evidence in civil proceedings in England and Wales. Experts owe an overriding duty to the court, must provide independent opinions within their expertise, and must comply with Practice Direction 35 on report format, joint meetings, and oral evidence.",
+      "Part 35 of the Civil Procedure Rules governs expert evidence in civil proceedings. Experts owe an overriding duty to the court, must provide independent opinions within their expertise, and must comply with Practice Direction 35 on report format, joint meetings, and oral evidence.",
     link: { href: "/qualifications", label: "Expert qualifications" },
   },
   {
@@ -68,7 +68,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "FPR Part 25",
     definition:
-      "Part 25 of the Family Procedure Rules 2010 governs expert evidence in family proceedings in England and Wales, including financial remedy cases. Experts must comply with Practice Direction 25B and confirm their understanding of the duty to the court, parallel to CPR Part 35 in civil litigation.",
+      "Part 25 of the Family Procedure Rules 2010 governs expert evidence in family proceedings, including financial remedy cases. Experts must comply with Practice Direction 25B and confirm their understanding of the duty to the court, parallel to CPR Part 35 in civil litigation.",
     link: { href: "/qualifications", label: "Expert qualifications" },
   },
   {
@@ -128,7 +128,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "Loss Quantification",
     definition:
-      "The expert accounting process of calculating the monetary value of a legal claim, applying appropriate UK damages principles, but-for analysis for expectation loss, wasted expenditure for reliance loss, account of profits for equitable claims, and SAAMCo scope-of-duty limits in professional negligence.",
+      "The expert accounting process of calculating the monetary value of a legal claim, applying appropriate damages principles, but-for analysis for expectation loss, wasted expenditure for reliance loss, account of profits for equitable claims, and SAAMCo scope-of-duty limits in professional negligence.",
     link: { href: "/services#loss-quantification", label: "Loss quantification service" },
   },
   {

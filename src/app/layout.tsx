@@ -15,9 +15,9 @@ const inter = Inter({
 
 export const metadata: Metadata = createMetadata({
   title:
-    "Dispute Accounting UK | Forensic Accountants for Litigation & Commercial Disputes",
+    "Dispute Accounting | Forensic Accountants for Litigation & Commercial Disputes",
   description:
-    "Expert dispute accounting services for UK solicitors and businesses. Forensic accountants for loss quantification, fraud investigation, shareholder disputes, and expert witness reports. CPR Part 35 compliant.",
+    "Expert dispute accounting for legal teams and businesses. Forensic accountants for loss quantification, fraud investigation, shareholder disputes, and expert witness reports.",
   path: "/",
 });
 
@@ -27,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en-GB" className={`${inter.variable} h-full`}>
+    <html lang="en" className={`${inter.variable} h-full`}>
       <body className="flex min-h-full flex-col antialiased">
         <ConsentDefaultsScript />
         <CookieConsentRoot>

@@ -4,13 +4,13 @@ export const faqs: FAQ[] = [
   {
     question: "What is dispute accounting?",
     answer:
-      "Dispute accounting is the specialist application of forensic accounting, valuation, and financial investigation to legal disputes in England and Wales. A dispute accountant quantifies loss (quantum), traces misappropriated assets, values businesses and shareholdings, and prepares expert reports for courts, tribunals, and arbitration. Unlike routine audit or tax work, dispute accounting is adversarial in context: every figure must be supported by evidence, withstand cross-examination, and comply with CPR Part 35 or FPR Part 25.",
+      "Dispute accounting is the specialist application of forensic accounting, valuation, and financial investigation to legal disputes. A dispute accountant quantifies loss (quantum), traces misappropriated assets, values businesses and shareholdings, and prepares expert reports for courts, tribunals, and arbitration. Unlike routine audit or tax work, dispute accounting is adversarial in context: every figure must be supported by evidence, withstand cross-examination, and comply with applicable expert evidence rules.",
   },
   {
     question:
       "What is the difference between dispute accounting and forensic accounting?",
     answer:
-      "Forensic accounting is the broader investigative discipline encompassing fraud detection, asset tracing, and litigation support. Dispute accounting is the subset focused on quantifying claims and producing court-admissible expert evidence in active litigation or arbitration. In UK practice the terms overlap considerably, most dispute accountants are forensic accountants, but not all forensic accountants give expert witness evidence.",
+      "Forensic accounting is the broader investigative discipline encompassing fraud detection, asset tracing, and litigation support. Dispute accounting is the subset focused on quantifying claims and producing court-admissible expert evidence in active litigation or arbitration. In practice the terms overlap considerably, most dispute accountants are forensic accountants, but not all forensic accountants give expert witness evidence.",
   },
   {
     question: "Which disputes need a dispute accountant?",
@@ -25,7 +25,7 @@ export const faqs: FAQ[] = [
   {
     question: "What is CPR Part 35?",
     answer:
-      "CPR Part 35 is the section of the Civil Procedure Rules governing expert evidence in civil proceedings in England and Wales. It requires experts to provide independent opinions, confirms their overriding duty to the court, and sets out rules on instructions, report format, joint expert meetings, and oral evidence. Practice Direction 35 contains the detailed requirements for report content and conduct.",
+      "CPR Part 35 is the section of the Civil Procedure Rules governing expert evidence in civil proceedings. It requires experts to provide independent opinions, confirms their overriding duty to the court, and sets out rules on instructions, report format, joint expert meetings, and oral evidence. Practice Direction 35 contains the detailed requirements for report content and conduct.",
   },
   {
     question:
@@ -34,9 +34,9 @@ export const faqs: FAQ[] = [
       "A Single Joint Expert is appointed jointly by both parties or directed by the court to provide one opinion on a defined issue, reducing duplication of costs. A Party-Appointed Expert is instructed separately by each side and produces their own report, followed typically by a joint meeting and joint statement. SJE appointment suits narrower, agreed issues; PAE appointment is common in high-value disputes where each party wants independent analysis.",
   },
   {
-    question: "How much does a dispute accountant cost in the UK?",
+    question: "How much does a dispute accountant cost?",
     answer:
-      "UK dispute accountants typically charge £250–£600 per hour for senior practitioners, with leading experts in High Court matters charging £650–£1,000 or more. A standard quantum report may cost £8,000–£20,000; complex multi-issue engagements involving valuation, tracing, and fraud can exceed £50,000. Total cost depends on document volume, number of heads of loss, joint expert meetings, and whether oral evidence is required.",
+      "Dispute accountants typically charge £250–£600 per hour for senior practitioners, with leading experts in complex matters charging £650–£1,000 or more. A standard quantum report may cost £8,000–£20,000; complex multi-issue engagements involving valuation, tracing, and fraud can exceed £50,000. Total cost depends on document volume, number of heads of loss, joint expert meetings, and whether oral evidence is required.",
   },
   {
     question: "What credentials should a dispute accountant hold?",

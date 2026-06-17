@@ -4,13 +4,13 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "commercial-contract-disputes",
     title: "Commercial Contract Disputes",
-    h1: "Commercial Contract Dispute Accounting Expert UK",
+    h1: "Commercial Contract Dispute Accounting Expert",
     metaTitle:
-      "Commercial Contract Dispute Accounting Expert UK | DisputeAccounting",
+      "Commercial Contract Dispute Accounting Expert | DisputeAccounting",
     metaDescription:
-      "UK dispute accountants for commercial contract claims, but-for loss quantification, expectation vs reliance damages, Hadley v Baxendale remoteness, and consequential loss analysis for solicitors.",
+      "Dispute accountants for commercial contract claims, but-for loss quantification, expectation vs reliance damages, Hadley v Baxendale remoteness, and consequential loss analysis for solicitors.",
     paragraphs: [
-      "Commercial contract disputes in England and Wales turn on whether the claimant's financial position would have been better had the contract been performed. A dispute accountant constructs a but-for counterfactual from the contract terms, pre-breach trading history, management accounts, and contemporaneous forecasts, then compares projected performance with actual results to quantify net loss. Expectation damages, placing the innocent party in the position they would have been in under Robinson v Harman [1848], are typically measured as lost profit through contribution margin analysis, with clear allocation between variable and fixed costs and sensitivity testing on volume, price, and cost assumptions.",
+      "Commercial contract disputes in many jurisdictions turn on whether the claimant's financial position would have been better had the contract been performed. A dispute accountant constructs a but-for counterfactual from the contract terms, pre-breach trading history, management accounts, and contemporaneous forecasts, then compares projected performance with actual results to quantify net loss. Expectation damages, placing the innocent party in the position they would have been in under Robinson v Harman [1848], are typically measured as lost profit through contribution margin analysis, with clear allocation between variable and fixed costs and sensitivity testing on volume, price, and cost assumptions.",
       "Solicitors must often advise on the choice between expectation loss and reliance loss (wasted expenditure). Where profits cannot be proved with sufficient certainty, or where the claimant made a bad bargain, reliance damages under Anglia Television Ltd v Reed [1972] and CCC Films (London) Ltd v Impact Quadrant Films Ltd [1985] may be appropriate. The dispute accountant explains which measure is supported by the evidence, addresses the defendant's bad bargain defence, and quantifies each head separately so the court can apply the correct remedial framework without conflating distinct categories of loss.",
       "Every head of loss must satisfy the remoteness test in Hadley v Baxendale [1854] 9 Ex Ch 341. Direct losses arising naturally from the breach fall within the first limb; consequential losses, such as loss of a known downstream contract, require proof that they were within the reasonable contemplation of both parties at the time of contracting. Expert accounting evidence structures the quantum analysis accordingly, separating direct from consequential categories, addressing mitigation, and producing CPR Part 35 compliant reports capable of withstanding scrutiny in the Commercial Court, arbitration, and expert determination.",
     ],
@@ -47,11 +47,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "shareholder-disputes",
     title: "Shareholder Disputes",
-    h1: "Shareholder Dispute Accounting Expert UK",
+    h1: "Shareholder Dispute Accounting Expert",
     metaTitle:
-      "Shareholder Dispute Accounting Expert UK | S994 Valuation | DisputeAccounting",
+      "Shareholder Dispute Accounting Expert | S994 Valuation | DisputeAccounting",
     metaDescription:
-      "Dispute accountants for UK shareholder disputes, unfair prejudice petitions under s994 Companies Act, fair value, minority discounts, and financial investigation for minority shareholders.",
+      "Dispute accountants for shareholder disputes, unfair prejudice petitions under s994 Companies Act, fair value, minority discounts, and financial investigation for minority shareholders.",
     paragraphs: [
       "Shareholder disputes frequently require expert accounting evidence on the financial affairs of the company and the value of the claimant's interest. Under section 994 of the Companies Act 2006, a member may petition where the company's affairs are conducted in a manner unfairly prejudicial to their interests. Remedies often include a buy-out order under section 996, requiring determination of fair value as at the appropriate valuation date. A dispute accountant analyses management accounts, statutory accounts, cash flows, and related-party transactions to support fair value calculations and to investigate allegations of diverted profits, excessive remuneration, or improper distributions.",
       "Fair value is not necessarily the same as market value in a minority holding. The expert must address whether a minority discount applies, reflecting the lack of control and marketability of a non-controlling stake, or whether the court will order valuation on a pro rata basis of enterprise value without discount, as is common in unfair prejudice cases where the majority's conduct has depressed value. Financial investigation may trace undisclosed payments, analyse director loan accounts, review transfer pricing between group entities, and reconstruct normalised earnings before applying an earnings multiple or discounted cash flow approach.",
@@ -84,11 +84,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "fraud-financial-crime",
     title: "Fraud & Financial Crime",
-    h1: "Fraud Investigation & Financial Crime Accounting Expert UK",
+    h1: "Fraud Investigation & Financial Crime Accounting Expert",
     metaTitle:
-      "Fraud Investigation Accounting Expert UK | POCA & Asset Tracing | DisputeAccounting",
+      "Fraud Investigation Accounting Expert | POCA & Asset Tracing | DisputeAccounting",
     metaDescription:
-      "UK dispute accountants for fraud investigation, asset tracing, POCA confiscation proceedings, and civil recovery, forensic accounting expert evidence for solicitors and prosecutors.",
+      "Dispute accountants for fraud investigation, asset tracing, POCA confiscation proceedings, and civil recovery, forensic accounting expert evidence for solicitors and prosecutors.",
     paragraphs: [
       "Fraud and financial crime cases demand rigorous forensic accounting to establish how funds were misappropriated, laundered, or concealed. A dispute accountant follows the money through bank statements, general ledgers, invoices, and third-party records, reconstructing transaction flows and identifying beneficiaries. In civil fraud claims, the expert quantifies loss caused by dishonest misrepresentation, breach of fiduciary duty, or unlawful means conspiracy, linking each withdrawal or diversion to the claimant's diminution in assets.",
       "Asset tracing is central to both civil recovery and criminal confiscation. The accountant identifies the original misappropriated sum, traces it through subsequent transfers, and addresses commingling where stolen funds were mixed with legitimate assets. Reports support proprietary claims, tracing into substituted assets, and assessment of available recoveries from defendants and third-party recipients. Where multiple jurisdictions are involved, the expert coordinates with legal teams on disclosure and provides clear schedules suitable for worldwide freezing order applications.",
@@ -121,11 +121,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "ma-transaction-disputes",
     title: "M&A Transaction Disputes",
-    h1: "M&A Transaction Dispute Accounting Expert UK",
+    h1: "M&A Transaction Dispute Accounting Expert",
     metaTitle:
-      "M&A Dispute Accounting Expert UK | Completion Accounts & Earn-Outs | DisputeAccounting",
+      "M&A Dispute Accounting Expert | Completion Accounts & Earn-Outs | DisputeAccounting",
     metaDescription:
-      "Dispute accountants for UK M&A litigation, completion accounts adjustments, warranty claims, earn-out disputes, and locked box mechanism disagreements in share purchase agreements.",
+      "Dispute accountants for M&A litigation, completion accounts adjustments, warranty claims, earn-out disputes, and locked box mechanism disagreements in share purchase agreements.",
     paragraphs: [
       "Mergers and acquisitions generate accounting disputes long after completion. Completion accounts mechanisms adjust the purchase price by reference to the target's financial position at the closing date, typically comparing actual net debt, working capital, and cash against agreed targets or collars. Dispute accountants analyse the sale and purchase agreement's accounting policies, identify departures from GAAP or agreed definitions, and quantify the price adjustment required. Normalisation disputes, whether certain costs were one-off, whether revenue was properly recognised, and how stock and debtors were valued, are resolved through detailed review of the completion balance sheet and underlying ledgers.",
       "Warranty and indemnity claims allege that the seller misrepresented the target's financial position. The accountant quantifies loss arising from breach, for example, understated liabilities, overstated debtors, or undisclosed tax exposures, and addresses causation between the breach and the buyer's economic loss. Earn-out disputes arise when sellers allege that buyer conduct suppressed post-completion performance: diversion of customers, failure to invest, integration decisions, or accounting policies that reduce EBITDA. Experts construct but-for models showing what the business would have achieved absent alleged breach and apply the contractual earn-out formula to the resulting shortfall.",
@@ -156,11 +156,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "matrimonial-financial-disputes",
     title: "Matrimonial Financial Disputes",
-    h1: "Matrimonial Financial Dispute Accounting Expert UK",
+    h1: "Matrimonial Financial Dispute Accounting Expert",
     metaTitle:
-      "Matrimonial Financial Dispute Accountant UK | Form E & Hidden Income | DisputeAccounting",
+      "Matrimonial Financial Dispute Accountant | Form E & Hidden Income | DisputeAccounting",
     metaDescription:
-      "Dispute accountants for UK divorce financial remedy, FPR Part 25 expert evidence, Form E review, hidden income analysis, business valuation, and goodwill in family proceedings.",
+      "Dispute accountants for divorce financial remedy, FPR Part 25 expert evidence, Form E review, hidden income analysis, business valuation, and goodwill in family proceedings.",
     paragraphs: [
       "Matrimonial financial remedy proceedings under the Matrimonial Causes Act 1973 frequently require expert accounting evidence where one or both parties have business interests, complex remuneration structures, or allegations of non-disclosure. Proceedings are governed by FPR Part 25, which mirrors CPR Part 35 in imposing an overriding duty to the court. The dispute accountant provides independent analysis of business valuations, income capacity, and the accuracy of Form E financial statements, without advocating for either spouse.",
       "Form E requires full and frank disclosure of income, capital, pensions, and liabilities. Experts review tax returns, company accounts, bank statements, and management information to identify discrepancies between disclosed and actual financial position. Hidden income analysis addresses cash takings, undeclared dividends, inflated expenses, loans to family members, and corporate structures designed to reduce apparent resources available for maintenance and sharing.",
@@ -193,11 +193,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "insolvency-administration",
     title: "Insolvency & Administration",
-    h1: "Insolvency & Administration Dispute Accounting Expert UK",
+    h1: "Insolvency & Administration Dispute Accounting Expert",
     metaTitle:
-      "Insolvency Dispute Accountant UK | Wrongful Trading s214 | DisputeAccounting",
+      "Insolvency Dispute Accountant | Wrongful Trading s214 | DisputeAccounting",
     metaDescription:
-      "Dispute accountants for UK insolvency litigation, wrongful trading under s214 Insolvency Act, transactions at undervalue s238, preferences, and administrator wrongful trading claims.",
+      "Dispute accountants for insolvency litigation, wrongful trading under s214 Insolvency Act, transactions at undervalue s238, preferences, and administrator wrongful trading claims.",
     paragraphs: [
       "When a company enters insolvency, office holders and creditors frequently pursue claims against directors and connected parties. Section 214 of the Insolvency Act 1986 imposes liability on directors who knew or ought to have concluded that there was no reasonable prospect of avoiding insolvent liquidation and failed to take every step to minimise loss to creditors. Dispute accountants reconstruct the company's financial position at relevant dates, analyse cash flow forecasts that were available to directors, and opine on when insolvency became inevitable and what steps a reasonable director should have taken.",
       "Transactions at undervalue under section 238 and preferences under section 239 require analysis of whether the company received adequate consideration and whether a transaction preferred one creditor over others. The accountant values assets transferred, reviews consideration paid, examines the company's insolvency status at the transaction date, and quantifies the amount recoverable by the office holder. Connected party transactions, management buyouts, and pre-insolvency dividends demand careful review of board minutes, valuations obtained at the time, and subsequent financial deterioration.",
@@ -233,11 +233,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "partnership-disputes",
     title: "Partnership Disputes",
-    h1: "Partnership Dispute Accounting Expert UK",
+    h1: "Partnership Dispute Accounting Expert",
     metaTitle:
-      "Partnership Dispute Accountant UK | Profit Share & Goodwill | DisputeAccounting",
+      "Partnership Dispute Accountant | Profit Share & Goodwill | DisputeAccounting",
     metaDescription:
-      "Dispute accountants for UK partnership and LLP disputes, profit share disagreements, capital accounts, goodwill valuation, and dissolution account analysis for solicitors.",
+      "Dispute accountants for partnership and LLP disputes, profit share disagreements, capital accounts, goodwill valuation, and dissolution account analysis for solicitors.",
     paragraphs: [
       "Partnership disputes arise in general partnerships, limited partnerships, and limited liability partnerships under the Partnership Act 1890, LLP Act 2000, and bespoke partnership or members' agreements. Financial issues commonly include alleged failure to distribute agreed profit shares, improper allocation of expenses, drawings in excess of entitlement, and disputes over capital account balances on retirement or expulsion. The dispute accountant analyses partnership accounts, tax returns, and underlying ledgers to determine each partner's or member's true economic entitlement.",
       "Goodwill valuation is often contentious on dissolution or buy-out, particularly in professional practices where personal goodwill attributable to individual practitioners may be distinguished from practice goodwill attached to the firm. Experts apply earnings-based methodologies, review work-in-progress and recoverability, and address restrictive covenant impacts on value. Capital account reconciliations require tracing contributions, retained profits, drawings, and notional tax liabilities through the life of the partnership.",
@@ -273,9 +273,9 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "professional-negligence",
     title: "Professional Negligence",
-    h1: "Professional Negligence Dispute Accounting Expert UK",
+    h1: "Professional Negligence Dispute Accounting Expert",
     metaTitle:
-      "Accountant Negligence Expert UK | SAAMCo & But-For | DisputeAccounting",
+      "Accountant Negligence Expert | SAAMCo & But-For | DisputeAccounting",
     metaDescription:
       "Dispute accountants for professional negligence claims, accountant negligence, but-for counterfactuals, SAAMCo scope of duty, and Allied Maples loss of chance quantification.",
     paragraphs: [
@@ -315,11 +315,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "tax-disputes-hmrc",
     title: "Tax Disputes & HMRC",
-    h1: "Tax Dispute & HMRC Accounting Expert UK",
+    h1: "Tax Dispute & HMRC Accounting Expert",
     metaTitle:
-      "Tax Dispute Accountant UK | HMRC SAV & FTT Tax Chamber | DisputeAccounting",
+      "Tax Dispute Accountant | HMRC SAV & FTT Tax Chamber | DisputeAccounting",
     metaDescription:
-      "Dispute accountants for UK tax disputes, HMRC Shares and Assets Valuation, IHT, CGT, transfer pricing, and expert evidence in the First-tier Tribunal (Tax Chamber).",
+      "Dispute accountants for tax disputes, HMRC Shares and Assets Valuation, IHT, CGT, transfer pricing, and expert evidence in the First-tier Tribunal (Tax Chamber).",
     paragraphs: [
       "Tax disputes with HMRC span direct and indirect taxes, with accounting experts instructed on valuation, profit allocation, and penalty-related loss quantification. Shares and Assets Valuation (SAV) teams challenge valuations in transactions between connected parties, EMI and CSOP options, and estate valuations for inheritance tax. Dispute accountants support taxpayers and solicitors by preparing independent valuations, reviewing HMRC's computations, and explaining commercial rationale for prices paid.",
       "Inheritance tax disputes often turn on business property relief and agricultural property relief, requiring analysis of trading status, investment activities, and the value of unquoted shareholdings. Capital gains tax disputes may involve valuation of assets at disposal, identification of allowable costs and enhancement expenditure, and whether transactions were undertaken otherwise than by way of a bargain at arm's length. Transfer pricing and diverted profits disputes require functional analysis and benchmarking of related-party transactions.",
@@ -354,11 +354,11 @@ export const caseTypes: ContentPage[] = [
   {
     slug: "insurance-business-interruption",
     title: "Insurance & Business Interruption",
-    h1: "Insurance & Business Interruption Accounting Expert UK",
+    h1: "Insurance & Business Interruption Accounting Expert",
     metaTitle:
-      "Business Interruption Insurance Expert UK | BI Formula | DisputeAccounting",
+      "Business Interruption Insurance Expert | BI Formula | DisputeAccounting",
     metaDescription:
-      "Dispute accountants for UK business interruption insurance claims, BI formula, loss of profit, indemnity period, and coverage disputes between policyholders and insurers.",
+      "Dispute accountants for business interruption insurance claims, BI formula, loss of profit, indemnity period, and coverage disputes between policyholders and insurers.",
     paragraphs: [
       "Business interruption insurance indemnifies the policyholder for loss of profit and increased costs arising from insured material damage or specified non-damage extensions. When insurers and policyholders disagree on quantum or coverage, dispute accountants quantify the loss in accordance with the policy wording, typically applying the gross profit basis, increased cost of working provisions, and the indemnity period defined in the schedule.",
       "Loss of profit calculations require establishing what turnover the business would have achieved during the indemnity period but for the insured event, comparing it to actual turnover, and applying the rate of gross profit specified in the policy (or derived from historical accounts). Adjustments address trends, seasonality, and special circumstances, such as pandemic-related market changes, where the policy and case law permit. Increased costs of working are analysed for reasonableness and necessity, with savings from reduced expenditure credited against the claim.",
@@ -374,7 +374,7 @@ export const caseTypes: ContentPage[] = [
         question:
           "What is the BI formula and how do dispute accountants apply it?",
         answer:
-          "The standard UK gross profit basis BI formula is: Adjusted Loss = (Standard Turnover − Actual Turnover) × Rate of Gross Profit + Increased Cost of Working − Savings. Standard turnover is what the business would have earned during the indemnity period but for the insured event, often derived from the same period in the prior year with adjustments for trend and known circumstances. Actual turnover is what was achieved. The rate of gross profit is the policy percentage or the ratio of gross profit to turnover from the financial statements. Increased cost of working covers reasonable additional expenditure to mitigate loss, and savings credit reduced variable costs during the interruption. The dispute accountant reconciles each element to accounting records and challenges unsupported adjustments by the insurer or policyholder.",
+          "The standard gross profit basis BI formula is: Adjusted Loss = (Standard Turnover − Actual Turnover) × Rate of Gross Profit + Increased Cost of Working − Savings. Standard turnover is what the business would have earned during the indemnity period but for the insured event, often derived from the same period in the prior year with adjustments for trend and known circumstances. Actual turnover is what was achieved. The rate of gross profit is the policy percentage or the ratio of gross profit to turnover from the financial statements. Increased cost of working covers reasonable additional expenditure to mitigate loss, and savings credit reduced variable costs during the interruption. The dispute accountant reconciles each element to accounting records and challenges unsupported adjustments by the insurer or policyholder.",
       },
     ],
     relatedLinks: [

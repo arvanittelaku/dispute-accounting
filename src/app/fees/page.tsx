@@ -6,9 +6,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { breadcrumbSchema } from "@/lib/schema";
 
 export const metadata = createMetadata({
-  title: "Dispute Accounting Fees UK | 2025 Hourly Rates & Costs",
+  title: "Dispute Accounting Fees | 2025 Hourly Rates & Costs",
   description:
-    "UK dispute accountants typically charge £150–£500/hour. Learn about fee structures, retainers, report costs, and what affects total engagement costs.",
+    "dispute accountants typically charge £150–£500/hour. Learn about fee structures, retainers, report costs, and what affects total engagement costs.",
   path: "/fees",
 });
 
@@ -22,7 +22,7 @@ export default function FeesPage() {
         ])}
       />
       <PageHero
-        title="Dispute Accounting Fees UK"
+        title="Dispute Accounting Fees"
         breadcrumbs={[{ label: "Home", href: "/" }, { label: "Fees" }]}
       />
       <Section>
@@ -84,7 +84,7 @@ export default function FeesPage() {
           <h2>Sources</h2>
           <p className="text-sm text-body/80">
             Rates are indicative based on industry surveys, Chambers and Partners
-            2025 forensic accounting rankings, and typical UK forensic practice
+            2025 forensic accounting rankings, and typical forensic practice
             fee structures. Actual fees depend on expert seniority, case
             complexity, and geographic location. Always agree fees in writing
             before formal instruction.

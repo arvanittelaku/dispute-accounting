@@ -20,7 +20,7 @@ export default function TermsPage() {
           <h2>About This Service</h2>
           <p>
             DisputeAccounting.com is a referral and matching service that
-            connects UK solicitors, barristers, and law firms with qualified
+            connects legal teams, barristers, and law firms with qualified
             contract loss expert witnesses. We are not a law firm and do not
             provide legal advice.
           </p>
@@ -56,8 +56,8 @@ export default function TermsPage() {
 
           <h2>Governing Law</h2>
           <p>
-            These terms are governed by the laws of England and Wales. The courts
-            of England and Wales have exclusive jurisdiction.
+            These terms are governed by applicable law. Any disputes shall be
+            subject to the exclusive jurisdiction of competent courts.
           </p>
 
           <h2>Contact</h2>

@@ -83,14 +83,6 @@ export const organizationSchema = {
   name: SITE_NAME,
   url: SITE_URL,
   email: SITE_EMAIL,
-  address: {
-    "@type": "PostalAddress",
-    addressCountry: "GB",
-  },
-  areaServed: {
-    "@type": "Country",
-    name: "United Kingdom",
-  },
   sameAs: [LINKEDIN_URL],
 };
 
@@ -102,7 +94,7 @@ export function professionalServiceSchema(
     "@id": `${SITE_URL}/#service`,
     name: "Dispute Accounting",
     provider: { "@id": `${SITE_URL}/#organization` },
-    areaServed: "United Kingdom",
+    areaServed: "Worldwide",
     serviceType: "Dispute Accounting",
     hasOfferCatalog: {
       "@type": "OfferCatalog",
@@ -146,7 +138,7 @@ export function serviceNode(
     name,
     description,
     provider: { "@id": `${SITE_URL}/#organization` },
-    areaServed: "United Kingdom",
+    areaServed: "Worldwide",
   };
 }
 

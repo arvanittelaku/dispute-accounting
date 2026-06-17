@@ -8,9 +8,9 @@ import { breadcrumbSchema } from "@/lib/schema";
 import { CPR_PART_35_CONTENT, FPR_PART_25_CONTENT } from "@/data/shared-content";
 
 export const metadata = createMetadata({
-  title: "Dispute Accounting Qualifications UK | ACA, CFE & Forensic Credentials",
+  title: "Dispute Accounting Qualifications | ACA, CFE & Forensic Credentials",
   description:
-    "What credentials should a UK dispute accountant hold? ACA, FCA, CFE, CIMA, ACCA, and CPR Part 35 compliance explained.",
+    "What credentials should a dispute accountant hold? ACA, FCA, CFE, CIMA, ACCA, and CPR Part 35 compliance explained.",
   path: "/qualifications",
 });
 
@@ -35,14 +35,14 @@ export default function QualificationsPage() {
           <h2>Core Credentials</h2>
           <h3>ACA / FCA (ICAEW)</h3>
           <p>
-            Primary UK chartered accountancy qualification, essential baseline
+            Primary chartered accountancy qualification, essential baseline
             for dispute accountants providing expert witness evidence on
             accounting matters.
           </p>
           <h3>ACCA / FCCA</h3>
           <p>
             Association of Chartered Certified Accountants, widely recognised
-            in UK litigation and international arbitration.
+            in litigation and international arbitration.
           </p>
           <h3>CFE (Certified Fraud Examiner)</h3>
           <p>
@@ -68,7 +68,7 @@ export default function QualificationsPage() {
             expert witness work.
           </p>
           <h3>Fellow of Expert Witness Institute (FEWI)</h3>
-          <p>Leading UK expert witness professional body.</p>
+          <p>Leading expert witness professional body.</p>
 
           <h2>Experience Requirements</h2>
           <ul>

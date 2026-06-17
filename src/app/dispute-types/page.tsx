@@ -11,14 +11,14 @@ import { DISPUTE_TYPES_PAGE_LINKS } from "@/lib/seo-internal-links";
 
 export const metadata = createMetadata({
   title:
-    "Types of Accounting Disputes UK | When You Need a Forensic Accountant",
+    "Types of Accounting Disputes | When You Need a Forensic Accountant",
   description:
-    "The complete guide to types of disputes requiring a forensic accountant in the UK, commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.",
+    "The complete guide to types of disputes requiring a forensic accountant in disputes, commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.",
   path: "/dispute-types",
 });
 
 const pageDescription =
-  "The complete guide to types of disputes requiring a forensic accountant in the UK, commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.";
+  "The complete guide to types of disputes requiring a forensic accountant in disputes, commercial disputes, fraud, shareholder conflicts, matrimonial, insolvency, and more.";
 
 export default function DisputeTypesPage() {
   const schemas = [
@@ -28,7 +28,7 @@ export default function DisputeTypesPage() {
     ]),
     articleSchema({
       headline:
-        "Types of Accounting Disputes: When UK Businesses & Solicitors Need a Forensic Accountant",
+        "Types of Accounting Disputes: When Businesses & Solicitors Need a Forensic Accountant",
       description: pageDescription,
       path: "/dispute-types",
       aboutServiceId: "loss-quantification",
@@ -39,8 +39,8 @@ export default function DisputeTypesPage() {
     <>
       <JsonLd data={schemas} />
       <PageHero
-        title="Types of Accounting Disputes: When UK Businesses & Solicitors Need a Forensic Accountant"
-        subtitle="A definition-first guide to the ten dispute categories where UK courts and tribunals rely on independent forensic accounting, from contract loss quantification to shareholder valuation, fraud tracing, and business interruption quantum."
+        title="Types of Accounting Disputes: When Businesses & Solicitors Need a Forensic Accountant"
+        subtitle="A definition-first guide to the ten dispute categories where courts and tribunals rely on independent forensic accounting, from contract loss quantification to shareholder valuation, fraud tracing, and business interruption quantum."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Dispute Types" },
@@ -54,8 +54,7 @@ export default function DisputeTypesPage() {
             lost, a{" "}
             <Link href="/what-is-dispute-accounting">dispute accountant</Link>{" "}
             (forensic accountant instructed for litigation) becomes essential.
-            This page is the master taxonomy of accounting disputes in England
-            and Wales: what each type involves, the core accounting question,
+            This page is the master taxonomy of accounting disputes: what each type involves, the core accounting question,
             the expert&apos;s role, and where cases are heard. Whether you are a{" "}
             <Link href="/who-we-help/solicitors-law-firms">solicitor</Link>{" "}
             scoping expert evidence or a{" "}
@@ -75,7 +74,7 @@ export default function DisputeTypesPage() {
             shown before insolvency, courts and tribunals depend on independent
             expert analysis that translates accounting evidence into answers
             lawyers can plead and judges can apply. A dispute accountant applies
-            forensic investigative skills and UK damages principles to
+            forensic investigative skills and damages principles to
             historical records, producing{" "}
             <Link href="/services#expert-witness-reports">
               CPR Part 35 compliant reports
@@ -101,7 +100,7 @@ export default function DisputeTypesPage() {
           <h2>Overview of Dispute Types</h2>
           <p>
             The table below summarises the ten dispute categories most frequently
-            requiring forensic accounting in UK litigation. Each row links to a
+            requiring forensic accounting in litigation. Each row links to a
             dedicated case-type page with fuller detail, FAQs, and related
             services.
           </p>

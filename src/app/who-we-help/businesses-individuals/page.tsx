@@ -10,9 +10,9 @@ import { BUSINESS_PAGE_LINKS } from "@/lib/seo-internal-links";
 
 export const metadata = createMetadata({
   title:
-    "Dispute Accounting for Businesses & Individuals UK | Financial Dispute Help",
+    "Dispute Accounting for Businesses & Individuals | Financial Dispute Help",
   description:
-    "Dispute accounting for UK businesses and individuals facing fraud, shareholder conflict, M&A disputes, or financial irregularities. Independent forensic accounting support.",
+    "Dispute accounting for businesses and individuals facing fraud, shareholder conflict, M&A disputes, or financial irregularities. Independent forensic accounting support.",
   path: "/who-we-help/businesses-individuals",
 });
 
@@ -36,7 +36,7 @@ export default function BusinessesPage() {
     <>
       <JsonLd data={schema} />
       <PageHero
-        title="Dispute Accounting for UK Businesses & Individuals"
+        title="Dispute Accounting for Businesses & Individuals"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Who We Help", href: "/who-we-help" },
@@ -99,7 +99,7 @@ export default function BusinessesPage() {
       </Section>
       <CTASection
         title="Discuss Your Dispute"
-        description="Tell us about your situation and we will match you with a qualified UK dispute accountant. Response within 1 business day."
+        description="Tell us about your situation and we will match you with a qualified dispute accountant. Response within 1 business day."
         buttonLabel="Discuss Your Dispute"
       />
     </>

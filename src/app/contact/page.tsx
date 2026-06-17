@@ -8,9 +8,9 @@ import { SiteEmailLink } from "@/components/SiteEmailLink";
 import Link from "next/link";
 
 export const metadata = createMetadata({
-  title: "Instruct a Dispute Accountant | DisputeAccounting.com UK",
+  title: "Instruct a Dispute Accountant | DisputeAccounting.com",
   description:
-    "Submit your case details to be matched with a qualified UK dispute accountant. Solicitor or business enquiries welcome. Response within 1 business day.",
+    "Submit your case details to be matched with a qualified dispute accountant. Solicitor or business enquiries welcome. Response within 1 business day.",
   path: "/contact",
 });
 
@@ -32,7 +32,7 @@ export default function ContactPage() {
       />
       <PageHero
         title="Instruct a Dispute Accountant"
-        subtitle="Submit your case details and we will match you with a qualified UK dispute accounting expert. All enquiries are treated confidentially."
+        subtitle="Submit your case details and we will match you with a qualified dispute accounting expert. All enquiries are treated confidentially."
         breadcrumbs={[{ label: "Home", href: "/" }, { label: "Contact" }]}
       />
       <Section>

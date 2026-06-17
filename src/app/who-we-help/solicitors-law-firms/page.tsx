@@ -17,9 +17,9 @@ import { SOLICITORS_PAGE_LINKS } from "@/lib/seo-internal-links";
 
 export const metadata = createMetadata({
   title:
-    "Dispute Accounting for Solicitors & Law Firms UK | Expert Witness Reports",
+    "Dispute Accounting for Solicitors & Law Firms | Expert Witness Reports",
   description:
-    "Forensic accountants and dispute accounting expert witnesses for UK solicitors. CPR Part 35 compliant reports, SJE appointments, and litigation support across all dispute types.",
+    "Forensic accountants and dispute accounting expert witnesses for legal teams. CPR Part 35 compliant reports, SJE appointments, and litigation support across all dispute types.",
   path: "/who-we-help/solicitors-law-firms",
 });
 
@@ -43,7 +43,7 @@ export default function SolicitorsPage() {
     <>
       <JsonLd data={schema} />
       <PageHero
-        title="Dispute Accounting for UK Solicitors & Law Firms"
+        title="Dispute Accounting for Solicitors & Law Firms"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Who We Help", href: "/who-we-help" },
